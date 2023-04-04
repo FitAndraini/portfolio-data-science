@@ -159,6 +159,7 @@ Solusi untuk mengatasi masalah ini adalah pengembangan proyek ilmu data. Proyek 
 3. **BP_SUM** : Rencana Perjalanan <br>
 4. **SUM_YR_1** : Total Pendapatan <br>
 5. **Avg_Discount** : Rata_rata Diskon yang didapatkan customer. <br>
+
 **Step 08. Handling Outliers :** Melakukan drop terhadap data outliers karena nilainya terlalu ekstrim/jauh berbeda dari data-data lain pada umumnya<br>
 **Step 9. Feature Transformation :** Melakukan standarisasi karena tanpa standarisasi model machine learning clustering tidak bisa dilakukan<br>
 **Step 10. Elbow Method :** Dilakukan untuk menetukan jumlah cluster terbaik yang dapat digunakan untuk menghasilkan hasil cluster yang terbaik dan dapat memaksimalkan kualitas hasil cluster <br>
