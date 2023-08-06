@@ -1,0 +1,1001 @@
+,Daily Time Spent on Site,Age,Area Income,Daily Internet Usage,Male,Timestamp,Clicked on Ad,city,province,category
+0,68.95,35,432837300.0,256.09,Perempuan,3/27/2016 0:53,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Furniture
+1,80.23,31,479092950.00000006,193.77,Laki-Laki,4/4/2016 1:39,No,Denpasar,Bali,Food
+2,69.47,26,418501580.0,236.5,Perempuan,3/13/2016 20:35,No,Surabaya,Jawa Timur,Electronic
+3,74.15,29,383643260.0,245.89,Laki-Laki,1/10/2016 2:31,No,Batam,Kepulauan Riau,House
+4,68.37,35,517229930.00000006,225.58,Perempuan,6/3/2016 3:36,No,Medan,Sumatra Utara,Finance
+5,59.99,23,418330920.0,226.74,Laki-Laki,5/19/2016 14:30,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Travel
+6,88.91,33,376969950.0,208.36,Perempuan,1/28/2016 20:59,No,Bandung,Jawa Barat,Electronic
+7,66.0,48,172153310.0,131.76,Laki-Laki,3/7/2016 1:40,Yes,Bandar Lampung,Lampung,Health
+8,74.53,30,482034000.0,221.51,Laki-Laki,4/18/2016 9:33,No,Batam,Kepulauan Riau,Bank
+9,69.88,20,389496240.0,183.82,Laki-Laki,7/11/2016 1:42,No,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Health
+10,47.64,49,319427570.0,122.02,Perempuan,3/16/2016 20:19,Yes,Depok,Jawa Barat,Food
+11,83.07,37,437437070.0,230.87,Laki-Laki,5/8/2016 8:10,No,Bandar Lampung,Lampung,Travel
+12,69.57,48,361458440.0,113.12,Laki-Laki,6/3/2016 1:14,Yes,Serang,Banten,Travel
+13,79.52,24,362177410.0,214.23,Perempuan,4/20/2016 21:49,No,Batam,Kepulauan Riau,House
+14,42.95,33,216832000.0,143.56,Perempuan,3/24/2016 9:31,Yes,Padang,Sumatra Barat,Food
+15,63.45,23,365275610.0,140.64,Laki-Laki,3/9/2016 3:41,Yes,Padang,Sumatra Barat,House
+16,55.39,37,167558020.0,129.41,Perempuan,1/30/2016 19:20,Yes,Semarang,Jawa Tengah,Finance
+17,82.03,41,500577560.0,187.53,Perempuan,5/2/2016 7:00,No,Depok,Jawa Barat,Health
+18,54.7,36,217612780.0,,Laki-Laki,2/13/2016 7:53,Yes,Makassar,Sulawesi Selatan,Travel
+19,74.58,40,166752040.0,135.51,Laki-Laki,2/27/2016 4:43,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Fashion
+20,77.22,30,453616310.0,224.44,Laki-Laki,1/5/2016 7:52,No,Malang,Jawa Timur,House
+21,84.59,35,420108990.0,226.54,Laki-Laki,3/18/2016 13:22,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Travel
+22,41.49,52,228449900.0,164.83,Perempuan,5/20/2016 8:49,Yes,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Electronic
+23,87.29,36,431401040.0,209.93,Laki-Laki,3/23/2016 9:43,No,Surabaya,Jawa Timur,Finance
+24,41.39,41,482736240.00000006,167.22,Perempuan,6/13/2016 17:27,Yes,Denpasar,Bali,Electronic
+25,,28,453796000.0,204.79,Laki-Laki,5/27/2016 15:25,No,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Otomotif
+26,48.53,28,266469560.0,134.14,Laki-Laki,2/8/2016 10:46,Yes,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Travel
+27,51.95,52,408070740.0,129.23,Perempuan,7/19/2016 8:32,Yes,Semarang,Jawa Tengah,Electronic
+28,70.2,34,228962580.0,119.2,Perempuan,4/14/2016 5:08,Yes,Pontianak,Kalimantan Barat,House
+29,76.02,22,323259790.0,209.82,Perempuan,1/27/2016 12:38,No,Surabaya,Jawa Timur,Otomotif
+30,67.64,35,360312960.0,267.01,Laki-Laki,7/2/2016 20:23,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,House
+31,86.41,28,319157510.0,207.48,Laki-Laki,3/1/2016 22:13,No,Semarang,Jawa Tengah,Travel
+32,59.05,57,,169.23,Laki-Laki,7/15/2016 5:05,Yes,Tasikmalaya,Jawa Barat,Fashion
+33,55.6,23,211595860.0,212.58,Perempuan,1/14/2016 14:00,Yes,Pontianak,Kalimantan Barat,Food
+34,57.64,57,319066440.0,133.81,Laki-Laki,3/15/2016 3:12,Yes,Padang,Sumatra Barat,Otomotif
+35,84.37,30,429726500.0,201.58,Perempuan,4/12/2016 3:26,No,Surakarta,Jawa Tengah,Travel
+36,62.26,53,397395530.0,125.45,Laki-Laki,4/7/2016 15:18,Yes,Bekasi,Jawa Barat,Furniture
+37,65.82,39,535047100.0,221.94,Perempuan,2/9/2016 5:28,No,Bandar Lampung,Lampung,Bank
+38,50.43,46,401981090.0,119.32,Laki-Laki,5/7/2016 17:11,Yes,Tangerang,Banten,Furniture
+39,,39,192558870.0,162.08,Perempuan,3/11/2016 6:49,Yes,Cimahi,Jawa Barat,Travel
+40,84.98,29,403843650.0,202.61,Perempuan,4/27/2016 9:27,No,Malang,Jawa Timur,Electronic
+41,64.24,30,418489260.0,252.36,Perempuan,4/16/2016 11:53,No,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Otomotif
+42,82.52,32,466006730.0,198.11,Laki-Laki,5/8/2016 15:38,No,Surabaya,Jawa Timur,Travel
+43,81.38,31,454507270.0,212.3,Perempuan,2/8/2016 0:23,No,Pontianak,Kalimantan Barat,House
+44,80.47,25,402637480.0,204.86,Perempuan,2/11/2016 13:26,No,Makassar,Sulawesi Selatan,Otomotif
+45,37.68,52,375028360.0,172.83,Laki-Laki,2/17/2016 13:16,Yes,Semarang,Jawa Tengah,Food
+46,69.62,20,,202.25,Laki-Laki,2/26/2016 22:46,No,Tasikmalaya,Jawa Barat,Finance
+47,85.4,43,469411040.0,198.72,Perempuan,6/8/2016 18:54,No,Banjarmasin,Kalimantan Selatan,Bank
+48,44.33,37,369063380.0,123.72,Laki-Laki,1/8/2016 9:32,Yes,Medan,Sumatra Utara,Furniture
+49,48.01,46,380002700.0,119.93,Perempuan,4/25/2016 11:01,Yes,Palembang,Sumatra Selatan,Furniture
+50,73.18,23,430683750.0,196.71,Laki-Laki,4/4/2016 7:07,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Food
+51,79.94,28,409682280.0,225.29,Perempuan,5/3/2016 21:19,No,Batam,Kepulauan Riau,Food
+52,33.33,45,373450770.0,193.58,Laki-Laki,1/17/2016 9:31,Yes,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,House
+53,50.33,50,438602710.0,133.2,Laki-Laki,3/2/2016 4:57,Yes,Banjarmasin,Kalimantan Selatan,House
+54,62.31,47,439057990.0,119.3,Perempuan,2/14/2016 7:36,Yes,Samarinda,Kalimantan Timur,Health
+55,80.6,31,472357340.0,177.55,Perempuan,4/7/2016 3:56,No,Bandung,Jawa Barat,House
+56,65.19,36,526784160.00000006,150.61,Perempuan,2/17/2016 11:42,Yes,Surabaya,Jawa Timur,Bank
+57,44.98,49,366356480.0,129.31,Perempuan,4/10/2016 0:13,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Electronic
+58,77.63,29,392793590.0,239.22,Perempuan,2/14/2016 17:05,No,Surabaya,Jawa Timur,House
+59,41.82,41,173970300.0,156.36,Perempuan,5/26/2016 22:49,Yes,Pakanbaru,Riau,House
+60,85.61,27,333958940.0,183.43,Perempuan,4/30/2016 8:07,No,Palembang,Sumatra Selatan,Health
+61,85.84,34,452582620.0,192.93,Laki-Laki,6/15/2016 5:30,No,Denpasar,Bali,Health
+62,72.08,29,498599080.0,169.5,Perempuan,3/9/2016 14:45,No,Samarinda,Kalimantan Timur,House
+63,,32,431207350.0,,Laki-Laki,3/31/2016 20:55,No,Makassar,Sulawesi Selatan,Finance
+64,45.96,45,463970220.00000006,141.22,Perempuan,6/3/2016 0:55,Yes,Palembang,Sumatra Selatan,Electronic
+65,62.42,29,517376300.0,198.5,Laki-Laki,3/10/2016 23:36,No,Tasikmalaya,Jawa Barat,Food
+66,63.89,40,359221310.0,105.22,Perempuan,1/8/2016 0:17,Yes,Cimahi,Jawa Barat,Fashion
+67,35.33,32,360571260.0,200.22,Perempuan,6/5/2016 22:11,Yes,Tangerang Selatan,Banten,Otomotif
+68,75.74,25,427041090.0,215.25,Laki-Laki,1/16/2016 11:35,No,Bandar Lampung,Lampung,Fashion
+69,78.53,34,227758860.0,131.72,Perempuan,4/22/2016 20:10,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Fashion
+70,46.13,31,421742790.0,139.01,Perempuan,2/1/2016 9:00,Yes,Bandung,Jawa Barat,Bank
+71,69.01,46,521806670.0,222.63,Perempuan,7/7/2016 13:37,No,Bogor,Jawa Barat,Fashion
+72,55.35,39,528567270.0,153.17,Laki-Laki,3/8/2016 0:37,Yes,Tangerang Selatan,Banten,Fashion
+73,33.21,43,298552240.0,167.07,Laki-Laki,5/10/2016 17:39,Yes,Surabaya,Jawa Timur,Furniture
+74,38.46,42,407281280.0,145.98,Laki-Laki,4/6/2016 11:24,Yes,Pakanbaru,Riau,Health
+75,64.1,22,423260040.0,215.93,Perempuan,4/1/2016 16:21,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Food
+76,49.81,35,399068320.0,120.06,Laki-Laki,1/5/2016 4:18,Yes,Samarinda,Kalimantan Timur,Otomotif
+77,82.73,33,381790920.0,238.99,Laki-Laki,5/20/2016 21:31,No,Tangerang,Banten,Bank
+78,56.14,38,228823280.0,113.53,Laki-Laki,2/3/2016 7:59,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Food
+79,55.13,45,389241440.0,111.71,Perempuan,2/17/2016 21:55,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Fashion
+80,78.11,27,443078090.0,209.25,Laki-Laki,1/30/2016 16:10,No,Banjarmasin,Kalimantan Selatan,Food
+81,73.46,28,459574290.0,222.75,Laki-Laki,5/15/2016 14:41,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Bank
+82,56.64,38,431567710.0,115.91,Perempuan,1/5/2016 17:56,Yes,Batam,Kepulauan Riau,Health
+83,68.94,54,215083820.0,138.71,Perempuan,4/19/2016 7:34,Yes,Bandung,Jawa Barat,House
+84,70.79,31,521751580.0,184.1,Perempuan,3/15/2016 15:49,No,Surabaya,Jawa Timur,Fashion
+85,57.76,41,335033510.0,105.15,Perempuan,6/12/2016 15:25,Yes,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Finance
+86,77.51,36,515201960.0,200.55,Perempuan,7/1/2016 4:41,No,Surakarta,Jawa Tengah,Health
+87,52.7,34,409807580.0,118.6,Laki-Laki,5/8/2016 12:12,Yes,Balikpapan,Kalimantan Timur,Fashion
+88,57.7,34,298876690.0,109.07,Perempuan,3/14/2016 23:13,Yes,Medan,Sumatra Utara,Bank
+89,56.89,37,261343460.0,109.29,Laki-Laki,5/25/2016 0:19,Yes,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Food
+90,69.9,43,,138.35,Perempuan,5/13/2016 11:51,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Fashion
+91,55.79,24,416850350.0,149.67,Perempuan,2/20/2016 20:47,Yes,Bandung,Jawa Barat,Food
+92,70.03,26,449849750.0,227.72,Laki-Laki,5/22/2016 20:49,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Food
+93,50.08,40,449035020.0,125.85,Laki-Laki,4/10/2016 2:02,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Finance
+94,43.67,31,179804380.0,166.29,Laki-Laki,2/28/2016 6:41,Yes,Semarang,Jawa Tengah,House
+95,72.84,26,370777540.0,238.63,Perempuan,7/8/2016 21:18,No,Pakanbaru,Riau,Finance
+96,45.72,36,157311560.0,154.02,Laki-Laki,4/19/2016 15:14,Yes,Serang,Banten,Travel
+97,39.94,41,454490330.0,156.3,Perempuan,1/8/2016 22:47,Yes,Surabaya,Jawa Timur,Electronic
+98,35.61,46,363081950.0,158.22,Perempuan,3/28/2016 8:46,Yes,Palembang,Sumatra Selatan,House
+99,79.71,34,486197810.0,,Laki-Laki,7/2/2016 14:57,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Electronic
+100,41.49,53,223633550.0,169.18,Perempuan,7/3/2016 9:22,Yes,Makassar,Sulawesi Selatan,Furniture
+101,63.6,23,363053390.0,235.28,Laki-Laki,6/1/2016 9:27,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,House
+102,89.91,40,417154920.0,194.23,Perempuan,7/9/2016 14:55,No,Serang,Banten,Travel
+103,68.18,21,338632980.0,218.17,Laki-Laki,2/9/2016 22:04,No,Surabaya,Jawa Timur,Travel
+104,66.49,20,398193180.0,202.16,Perempuan,6/10/2016 11:31,No,Batam,Kepulauan Riau,Otomotif
+105,80.49,40,470305780.0,229.12,Laki-Laki,2/14/2016 3:50,No,Bandung,Jawa Barat,Otomotif
+106,72.23,25,325905440.0,241.03,Laki-Laki,7/5/2016 17:17,No,Batam,Kepulauan Riau,Furniture
+107,42.39,42,465787350.0,150.99,Perempuan,4/28/2016 5:50,Yes,Malang,Jawa Timur,Health
+108,47.53,30,232806630.0,135.18,Perempuan,4/3/2016 5:10,Yes,Bandung,Jawa Barat,Food
+109,74.02,32,505910300.0,210.54,Perempuan,3/9/2016 14:57,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Otomotif
+110,,60,422333660.0,176.98,Perempuan,1/16/2016 23:37,Yes,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Bank
+111,63.24,53,456603910.0,235.78,Laki-Laki,7/3/2016 4:33,Yes,Bandung,Jawa Barat,Food
+112,71.0,22,392471660.0,211.87,Perempuan,3/14/2016 6:46,No,Bandung,Jawa Barat,House
+113,46.13,46,264871040.0,123.64,Laki-Laki,1/9/2016 5:44,Yes,Bogor,Jawa Barat,Travel
+114,69.0,32,508783450.00000006,221.21,Laki-Laki,2/11/2016 4:37,No,Bandung,Jawa Barat,Food
+115,76.99,31,397108460.0,244.34,Laki-Laki,6/22/2016 7:33,No,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Food
+116,72.6,55,467708780.0,162.95,Perempuan,7/13/2016 16:12,Yes,Surabaya,Jawa Timur,Electronic
+117,61.88,42,421564640.0,112.19,Laki-Laki,7/23/2016 11:46,Yes,Tangerang,Banten,House
+118,84.45,50,208094530.0,207.18,Perempuan,7/13/2016 4:10,Yes,Surabaya,Jawa Timur,Fashion
+119,88.97,45,344889860.0,152.49,Perempuan,6/11/2016 18:32,Yes,Bandung,Jawa Barat,Food
+120,86.19,31,403685870.0,210.26,Laki-Laki,5/8/2016 12:51,No,Pakanbaru,Riau,Otomotif
+121,49.58,26,397542250.0,231.94,Perempuan,4/7/2016 16:02,No,Denpasar,Bali,Finance
+122,77.65,27,442924160.0,212.79,Perempuan,2/4/2016 13:30,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,House
+123,37.75,36,248267600.00000003,225.24,Perempuan,2/26/2016 19:48,Yes,Surabaya,Jawa Timur,Furniture
+124,62.33,43,481509630.0,127.11,Perempuan,6/21/2016 13:15,Yes,Bandar Lampung,Lampung,Furniture
+125,79.57,31,428593130.0,230.93,Perempuan,5/17/2016 4:27,No,Semarang,Jawa Tengah,Finance
+126,80.31,44,394568160.0,127.07,Perempuan,4/18/2016 15:54,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Otomotif
+127,89.05,45,405079080.0,206.98,Perempuan,4/3/2016 10:07,No,Medan,Sumatra Utara,Furniture
+128,70.41,27,466327470.00000006,223.03,Perempuan,4/4/2016 21:30,No,Malang,Jawa Timur,Otomotif
+129,67.36,37,511731290.0,233.56,Perempuan,7/6/2016 16:00,No,Surakarta,Jawa Tengah,Finance
+130,46.98,50,151514370.0,175.37,Perempuan,5/4/2016 9:00,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Electronic
+131,41.67,36,376719140.0,132.55,Perempuan,6/13/2016 18:50,Yes,Medan,Sumatra Utara,Health
+132,51.24,36,534578170.0,176.73,Perempuan,1/3/2016 16:01,Yes,Malang,Jawa Timur,Health
+133,75.7,29,473434080.0,215.44,Perempuan,1/14/2016 0:23,No,Bandar Lampung,Lampung,Furniture
+134,43.49,47,352348220.0,127.83,Perempuan,1/12/2016 10:07,Yes,Bekasi,Jawa Barat,Travel
+135,49.89,39,123969860.0,160.03,Laki-Laki,4/16/2016 12:09,Yes,Tangerang Selatan,Banten,Travel
+136,38.37,36,288604120.0,140.46,Perempuan,5/13/2016 6:09,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Finance
+137,38.52,38,298068610.0,137.28,Laki-Laki,3/27/2016 23:59,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Travel
+138,71.89,23,431325860.0,172.81,Laki-Laki,2/3/2016 23:47,No,Semarang,Jawa Tengah,Furniture
+139,75.8,38,494029200.00000006,146.19,Laki-Laki,4/18/2016 11:23,No,Malang,Jawa Timur,Food
+140,83.86,31,448856520.0,190.25,Perempuan,2/5/2016 19:06,No,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Bank
+141,37.51,30,364681240.0,163.0,Laki-Laki,3/21/2016 18:46,Yes,Surakarta,Jawa Tengah,House
+142,55.6,44,461676320.0,124.38,Laki-Laki,6/14/2016 11:59,Yes,Bekasi,Jawa Barat,Finance
+143,83.67,44,421349040.0,234.26,Laki-Laki,2/6/2016 23:08,No,Balikpapan,Kalimantan Timur,Finance
+144,69.08,41,542220490.0,210.6,Perempuan,3/12/2016 1:39,No,Padang,Sumatra Barat,Furniture
+145,37.47,44,320015360.0,141.89,Laki-Laki,1/26/2016 3:56,Yes,Medan,Sumatra Utara,Health
+146,56.04,49,455846020.0,128.95,Laki-Laki,2/7/2016 8:02,Yes,Bandung,Jawa Barat,Otomotif
+147,70.92,41,349969410.0,108.16,Laki-Laki,5/5/2016 7:58,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Health
+148,49.78,46,502029570.0,152.24,Perempuan,6/29/2016 2:43,Yes,Makassar,Sulawesi Selatan,Travel
+149,68.61,57,432392380.0,150.29,Perempuan,4/10/2016 19:48,Yes,Surabaya,Jawa Timur,Otomotif
+150,58.18,25,483789880.0,176.28,Laki-Laki,2/10/2016 6:37,No,Tangerang Selatan,Banten,Furniture
+151,,35,507674020.0,172.1,Perempuan,5/28/2016 20:41,No,Makassar,Sulawesi Selatan,Otomotif
+152,37.0,48,257476660.0,158.22,Laki-Laki,3/24/2016 6:36,Yes,Bekasi,Jawa Barat,Otomotif
+153,65.4,33,466893840.0,247.31,Perempuan,2/12/2016 22:51,No,Padang,Sumatra Barat,Furniture
+154,79.52,27,450014460.0,183.48,Laki-Laki,6/10/2016 10:11,No,Bekasi,Jawa Barat,Finance
+155,87.98,38,396463130.0,222.11,Laki-Laki,3/31/2016 10:44,No,Malang,Jawa Timur,Furniture
+156,44.64,36,390513060.0,127.01,Perempuan,2/14/2016 6:51,Yes,Surabaya,Jawa Timur,House
+157,41.73,28,427996310.0,202.18,Laki-Laki,1/7/2016 19:16,Yes,Bogor,Jawa Barat,Bank
+158,80.46,27,,,Laki-Laki,2/4/2016 2:13,No,Bandar Lampung,Lampung,Bank
+159,75.55,36,512644090.0,159.24,Perempuan,5/9/2016 2:58,Yes,Bandung,Jawa Barat,Food
+160,76.32,35,519163680.00000006,195.31,Laki-Laki,6/23/2016 0:16,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Food
+161,82.68,33,438687130.0,222.77,Laki-Laki,6/20/2016 9:35,No,Depok,Jawa Barat,House
+162,72.01,31,404298230.0,251.0,Perempuan,2/29/2016 12:31,No,Bandar Lampung,Lampung,Fashion
+163,75.83,24,406137480.0,162.44,Perempuan,1/17/2016 15:10,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Furniture
+164,41.28,50,356720560.0,140.39,Perempuan,1/29/2016 3:54,Yes,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Health
+165,34.66,32,337726200.0,194.83,Perempuan,7/14/2016 12:07,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Travel
+166,66.18,55,197902880.0,143.42,Perempuan,1/10/2016 23:14,Yes,Serang,Banten,Fashion
+167,86.06,31,376369840.0,219.72,Laki-Laki,4/28/2016 18:34,No,Bekasi,Jawa Barat,Fashion
+168,59.59,42,305634700.0,104.78,Laki-Laki,7/6/2016 18:36,Yes,Bandung,Jawa Barat,Health
+169,86.69,34,435670060.0,198.56,Perempuan,5/27/2016 6:19,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Bank
+170,43.77,52,343210210.0,138.55,Laki-Laki,1/25/2016 7:39,Yes,Banjarmasin,Kalimantan Selatan,Fashion
+171,71.84,47,532024290.0,199.79,Laki-Laki,5/8/2016 22:47,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Furniture
+172,80.23,31,476663950.00000006,196.23,Perempuan,3/19/2016 14:23,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Furniture
+173,74.41,26,450770950.0,163.05,Perempuan,7/23/2016 4:37,No,Banjarmasin,Kalimantan Selatan,House
+174,63.36,48,490372890.0,137.43,Perempuan,6/23/2016 1:22,Yes,Bekasi,Jawa Barat,Electronic
+175,71.74,35,506967790.0,227.56,Perempuan,7/19/2016 18:06,No,Malang,Jawa Timur,Otomotif
+176,60.72,44,300970600.0,105.69,Perempuan,2/28/2016 18:52,Yes,Medan,Sumatra Utara,Otomotif
+177,72.04,22,,199.43,Perempuan,2/10/2016 6:52,No,Tangerang Selatan,Banten,House
+178,44.57,31,268448460.0,133.17,Laki-Laki,3/27/2016 9:11,Yes,Bekasi,Jawa Barat,Fashion
+179,85.86,34,441807380.0,208.23,Perempuan,5/23/2016 2:15,No,Depok,Jawa Barat,Otomotif
+180,39.85,38,219403730.0,145.96,Perempuan,1/3/2016 3:22,Yes,Semarang,Jawa Tengah,Fashion
+181,84.53,27,285341910.0,168.34,Perempuan,1/4/2016 21:48,Yes,Tangerang Selatan,Banten,Bank
+182,62.95,60,257265680.0,157.04,Perempuan,5/24/2016 13:30,Yes,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Otomotif
+183,67.58,41,455312130.0,255.61,Laki-Laki,2/1/2016 19:42,No,Tasikmalaya,Jawa Barat,Bank
+184,85.56,29,375711560.0,210.46,Perempuan,6/5/2016 13:16,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Furniture
+185,46.88,54,304114020.0,136.64,Perempuan,2/4/2016 8:53,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Furniture
+186,46.31,57,309739640.0,153.98,Laki-Laki,3/24/2016 13:37,Yes,Batam,Kepulauan Riau,House
+187,77.95,31,438010160.0,233.65,Laki-Laki,6/2/2016 21:02,No,Palembang,Sumatra Selatan,Travel
+188,84.73,30,278883850.0,153.76,Perempuan,2/21/2016 7:42,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Finance
+189,39.86,36,228155130.0,145.85,Perempuan,6/26/2016 17:16,Yes,Pakanbaru,Riau,Travel
+190,50.08,30,291409020.0,123.91,Perempuan,1/3/2016 5:34,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Furniture
+191,60.23,35,303196110.0,106.86,Perempuan,3/8/2016 18:00,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Furniture
+192,60.7,49,300954360.0,110.57,Laki-Laki,6/19/2016 3:19,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,House
+193,43.67,53,322030170.0,143.79,Laki-Laki,7/21/2016 21:16,Yes,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Travel
+194,77.2,33,345278360.0,254.05,Laki-Laki,2/12/2016 20:36,No,Tangerang,Banten,Health
+195,71.86,32,361433380.0,116.53,Perempuan,5/17/2016 6:14,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Electronic
+196,44.78,45,443541280.0,137.24,Laki-Laki,7/9/2016 11:04,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Furniture
+197,78.57,36,448321510.0,239.32,Laki-Laki,3/27/2016 2:35,No,Samarinda,Kalimantan Timur,Bank
+198,73.41,31,511345100.0,201.26,Laki-Laki,1/16/2016 8:01,No,Padang,Sumatra Barat,Finance
+199,77.05,27,466372200.00000006,191.14,Perempuan,1/21/2016 23:48,No,Medan,Sumatra Utara,Finance
+200,66.4,40,542974950.0,214.42,Perempuan,6/5/2016 0:29,No,Medan,Sumatra Utara,Travel
+201,69.35,29,374019450.0,252.77,Laki-Laki,2/13/2016 15:37,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Health
+202,35.65,40,218860250.0,172.58,Laki-Laki,5/10/2016 7:22,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Otomotif
+203,70.04,31,523465180.00000006,183.85,Laki-Laki,3/27/2016 3:59,No,Semarang,Jawa Tengah,Finance
+204,69.78,29,492870770.0,218.79,Perempuan,5/24/2016 18:35,No,Tangerang Selatan,Banten,Otomotif
+205,58.22,29,261416680.0,120.9,Perempuan,2/11/2016 2:40,Yes,Tangerang Selatan,Banten,Furniture
+206,76.9,28,462754880.0,212.67,Perempuan,4/22/2016 8:31,No,Bekasi,Jawa Barat,Fashion
+207,84.08,30,436354730.0,187.36,Laki-Laki,1/13/2016 2:58,No,Batam,Kepulauan Riau,Otomotif
+208,59.51,58,273928480.0,140.83,Perempuan,6/16/2016 2:01,Yes,Serang,Banten,Furniture
+209,40.15,38,271217030.0,134.88,Laki-Laki,6/27/2016 18:37,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,House
+210,76.81,28,456205540.0,217.85,Laki-Laki,7/3/2016 12:57,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Travel
+211,41.89,38,479639720.00000006,163.38,Perempuan,2/3/2016 4:21,Yes,Medan,Sumatra Utara,Food
+212,76.87,27,383423390.0,235.35,Laki-Laki,5/29/2016 21:17,No,Semarang,Jawa Tengah,Health
+213,67.28,43,533728720.00000006,155.8,Laki-Laki,4/3/2016 21:13,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Travel
+214,81.98,40,458233440.0,229.22,Perempuan,4/15/2016 11:51,No,Malang,Jawa Timur,Food
+215,66.01,23,238890470.0,151.95,Perempuan,6/21/2016 3:14,Yes,Bandar Lampung,Lampung,Food
+216,61.57,53,246777860.00000003,125.94,Laki-Laki,3/14/2016 14:13,Yes,Depok,Jawa Barat,Health
+217,53.3,34,314255970.0,111.94,Perempuan,5/6/2016 21:07,Yes,Semarang,Jawa Tengah,Fashion
+218,34.87,40,417347140.0,200.23,Perempuan,6/12/2016 17:52,Yes,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Health
+219,43.6,38,145995780.0,170.49,Perempuan,1/11/2016 7:36,Yes,Batam,Kepulauan Riau,Travel
+220,77.88,37,387473870.0,254.57,Perempuan,7/2/2016 0:24,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Fashion
+221,75.83,27,472612490.00000006,200.59,Perempuan,3/4/2016 10:13,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Health
+222,49.95,39,481164250.0,136.59,Perempuan,3/24/2016 9:12,Yes,Bekasi,Jawa Barat,Food
+223,60.94,41,538256880.0,154.97,Perempuan,2/14/2016 7:30,Yes,Bandung,Jawa Barat,Food
+224,89.15,42,419206060.0,171.07,Perempuan,4/25/2016 7:30,No,Surabaya,Jawa Timur,House
+225,78.7,30,374091830.0,133.99,Perempuan,2/10/2016 19:20,Yes,Bekasi,Jawa Barat,Otomotif
+226,57.35,29,289494170.0,119.84,Perempuan,4/23/2016 14:34,Yes,Makassar,Sulawesi Selatan,Fashion
+227,34.86,38,349598620.0,154.75,Perempuan,6/18/2016 17:56,Yes,Tangerang Selatan,Banten,Electronic
+228,70.68,31,521010560.0,199.08,Perempuan,7/17/2016 1:58,No,Denpasar,Bali,Food
+229,76.06,23,410435410.0,201.04,Perempuan,4/27/2016 4:28,No,Depok,Jawa Barat,House
+230,66.67,33,508955090.0,228.03,Laki-Laki,4/21/2016 20:29,No,Surabaya,Jawa Timur,Electronic
+231,46.77,32,217650510.0,136.4,Laki-Laki,3/23/2016 6:00,Yes,Tasikmalaya,Jawa Barat,Fashion
+232,62.42,38,521116260.0,143.94,Perempuan,7/19/2016 7:59,Yes,Bogor,Jawa Barat,Otomotif
+233,78.32,28,345163980.0,239.52,Perempuan,6/26/2016 11:52,Yes,Semarang,Jawa Tengah,Bank
+234,37.32,50,397145980.0,199.25,Laki-Laki,3/30/2016 23:40,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Finance
+235,40.42,45,281286250.0,133.9,Laki-Laki,3/16/2016 7:59,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Furniture
+236,76.77,36,408438870.0,123.51,Perempuan,5/4/2016 0:01,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Bank
+237,65.65,30,505469930.00000006,158.05,Perempuan,7/2/2016 21:22,No,Banjarmasin,Kalimantan Selatan,Electronic
+238,74.32,33,434420770.0,128.17,Perempuan,5/23/2016 21:14,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Finance
+239,73.27,32,469794220.00000006,234.75,Laki-Laki,1/29/2016 20:16,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Bank
+240,80.03,44,168210420.0,150.84,Perempuan,7/23/2016 14:47,Yes,Tangerang,Banten,Health
+241,53.68,47,393266510.0,115.26,Laki-Laki,2/16/2016 9:11,Yes,Bandung,Jawa Barat,Fashion
+242,85.84,32,435434510.0,192.85,Laki-Laki,6/9/2016 21:43,No,Tangerang,Banten,Travel
+243,85.03,30,422608480.0,204.52,Perempuan,6/19/2016 9:24,No,Balikpapan,Kalimantan Timur,Otomotif
+244,70.44,24,456961120.0,178.75,Laki-Laki,6/6/2016 21:26,No,Serang,Banten,Food
+245,81.22,53,240164680.0,223.09,Laki-Laki,1/7/2016 13:25,No,Bandung,Jawa Barat,Travel
+246,39.96,45,417275670.0,146.13,Laki-Laki,4/15/2016 6:08,Yes,Bandung,Jawa Barat,Bank
+247,57.05,41,351952230.0,,Laki-Laki,1/9/2016 3:45,Yes,Bekasi,Jawa Barat,Food
+248,42.44,56,304150770.0,168.27,Perempuan,2/10/2016 15:23,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Otomotif
+249,62.2,25,177857470.0,161.16,Perempuan,4/24/2016 13:42,Yes,Surabaya,Jawa Timur,Food
+250,76.7,36,497955430.00000006,222.25,Perempuan,6/12/2016 5:31,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Electronic
+251,61.22,45,447186670.0,119.03,Laki-Laki,1/5/2016 9:42,Yes,Palembang,Sumatra Selatan,Fashion
+252,84.54,33,454317290.0,204.02,Laki-Laki,3/2/2016 10:07,No,Tangerang,Banten,House
+253,46.08,30,467493670.0,164.63,Laki-Laki,7/21/2016 10:54,Yes,Denpasar,Bali,Food
+254,56.7,48,439493950.0,123.13,Perempuan,1/9/2016 4:53,Yes,Bogor,Jawa Barat,House
+255,81.03,28,446092500.0,201.15,Perempuan,1/6/2016 13:20,No,Semarang,Jawa Tengah,Electronic
+256,,32,431257610.0,231.42,Perempuan,1/31/2016 4:10,No,Semarang,Jawa Tengah,Fashion
+257,40.06,38,397475260.0,138.68,Laki-Laki,6/11/2016 8:38,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Furniture
+258,83.47,39,451134390.0,226.11,Perempuan,5/15/2016 20:48,No,Batam,Kepulauan Riau,Bank
+259,73.84,31,294300650.0,121.05,Perempuan,6/18/2016 17:23,Yes,Palembang,Sumatra Selatan,Food
+260,74.65,28,473683420.0,212.56,Perempuan,3/17/2016 5:00,No,Medan,Sumatra Utara,Finance
+261,60.25,35,384131650.0,109.77,Perempuan,6/29/2016 13:35,Yes,Bandung,Jawa Barat,House
+262,59.21,35,513433690.0,144.62,Laki-Laki,2/2/2016 8:55,Yes,Makassar,Sulawesi Selatan,Fashion
+263,43.02,44,351398390.0,125.22,Perempuan,4/13/2016 5:42,Yes,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Health
+264,84.04,38,355065690.0,244.55,Perempuan,7/20/2016 9:27,No,Bekasi,Jawa Barat,Health
+265,70.66,43,444156720.0,120.95,Laki-Laki,2/26/2016 4:57,Yes,Bandung,Jawa Barat,Furniture
+266,70.58,26,396858840.0,136.94,Perempuan,2/26/2016 9:18,Yes,Tangerang,Banten,Otomotif
+267,72.44,34,493830120.0,230.14,Perempuan,4/15/2016 14:45,No,Tangerang Selatan,Banten,House
+268,40.17,26,331743650.0,171.31,Laki-Laki,2/1/2016 14:37,Yes,Banjarmasin,Kalimantan Selatan,House
+269,79.15,26,436185610.0,203.23,Perempuan,1/20/2016 19:09,No,Malang,Jawa Timur,House
+270,44.49,53,441700910.0,168.0,Laki-Laki,4/23/2016 6:28,Yes,Semarang,Jawa Tengah,House
+271,73.04,37,515812500.0,221.79,Laki-Laki,6/19/2016 22:26,No,Depok,Jawa Barat,Health
+272,76.28,33,368805290.0,254.34,Perempuan,2/15/2016 7:55,No,Palembang,Sumatra Selatan,Travel
+273,68.88,37,546836500.0,179.58,Perempuan,2/9/2016 19:37,No,Pakanbaru,Riau,Finance
+274,73.1,28,399103880.0,242.37,Perempuan,1/25/2016 7:52,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Fashion
+275,47.66,29,189604800.0,156.54,Perempuan,7/18/2016 11:33,Yes,Tasikmalaya,Jawa Barat,Finance
+276,87.3,35,408360260.0,216.87,Perempuan,1/9/2016 7:28,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Finance
+277,89.34,32,351512070.0,177.78,Laki-Laki,3/21/2016 21:15,No,Depok,Jawa Barat,Bank
+278,81.37,26,371346080.0,156.48,Laki-Laki,2/15/2016 12:25,No,Makassar,Sulawesi Selatan,Health
+279,81.67,28,440495720.0,196.76,Laki-Laki,3/4/2016 8:48,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Bank
+280,46.37,52,229932710.0,144.27,Perempuan,1/5/2016 0:02,Yes,Tangerang Selatan,Banten,Otomotif
+281,54.88,24,224047740.0,148.61,Perempuan,5/15/2016 1:03,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Fashion
+282,40.67,35,342391490.0,133.18,Perempuan,5/5/2016 9:28,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Fashion
+283,71.76,35,484999830.0,237.39,Perempuan,5/26/2016 13:18,No,Malang,Jawa Timur,Furniture
+284,47.51,51,375903990.0,130.41,Laki-Laki,5/21/2016 1:36,Yes,Bandung,Jawa Barat,Travel
+285,75.15,22,364077000.0,212.87,Laki-Laki,5/4/2016 12:06,No,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Food
+286,56.01,26,324374750.0,127.26,Perempuan,7/5/2016 18:59,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Health
+287,82.87,37,475571390.0,213.36,Perempuan,6/28/2016 20:13,No,Bogor,Jawa Barat,Bank
+288,45.05,42,464442650.0,141.36,Perempuan,5/5/2016 11:09,Yes,Bogor,Jawa Barat,Fashion
+289,60.53,24,468117300.0,167.22,Perempuan,3/25/2016 15:17,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Otomotif
+290,50.52,31,505896160.00000006,171.62,Perempuan,1/23/2016 15:02,Yes,Batam,Kepulauan Riau,Health
+291,84.71,32,431270350.0,210.23,Perempuan,5/29/2016 7:29,No,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Food
+292,55.2,39,535924130.0,159.46,Laki-Laki,5/30/2016 7:36,Yes,Palembang,Sumatra Selatan,Bank
+293,81.61,33,438672570.0,228.76,Perempuan,4/17/2016 15:46,No,Palembang,Sumatra Selatan,Health
+294,71.55,36,529812220.00000006,163.99,Laki-Laki,7/20/2016 23:08,No,Malang,Jawa Timur,Electronic
+295,82.4,36,467212550.0,218.97,Laki-Laki,6/29/2016 3:07,No,Bandung,Jawa Barat,Furniture
+296,73.95,35,474003740.00000006,238.58,Perempuan,4/10/2016 14:48,No,Surabaya,Jawa Timur,Bank
+297,72.07,31,487973570.0,226.45,Perempuan,4/16/2016 16:38,No,Medan,Sumatra Utara,Furniture
+298,80.39,31,463886430.00000006,214.74,Perempuan,5/3/2016 8:21,No,Bogor,Jawa Barat,Health
+299,65.8,25,425903240.0,231.49,Laki-Laki,3/18/2016 16:04,No,Medan,Sumatra Utara,Electronic
+300,69.97,28,385291200.0,250.0,Perempuan,5/22/2016 0:01,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Health
+301,52.62,50,517042750.0,176.52,Perempuan,2/1/2016 20:30,Yes,Denpasar,Bali,Finance
+302,39.25,39,436646350.0,152.36,Perempuan,1/23/2016 17:39,Yes,Bandung,Jawa Barat,Otomotif
+303,77.56,38,443357950.0,130.83,Laki-Laki,5/19/2016 3:52,Yes,Bandung,Jawa Barat,Furniture
+304,33.52,43,295341270.0,165.56,Perempuan,5/9/2016 21:54,Yes,Bandar Lampung,Lampung,Furniture
+305,79.81,24,393361920.0,178.85,Laki-Laki,5/31/2016 11:44,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Finance
+306,84.79,33,432403300.0,214.53,Perempuan,3/30/2016 19:09,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Otomotif
+307,82.7,35,429686530.0,231.07,Perempuan,1/9/2016 15:49,No,Bandung,Jawa Barat,Bank
+308,84.88,32,447473740.0,186.48,Perempuan,4/18/2016 3:41,No,Bandung,Jawa Barat,Bank
+309,54.92,54,167827450.0,161.16,Perempuan,6/13/2016 13:59,Yes,Depok,Jawa Barat,Finance
+310,76.56,34,491253770.0,221.53,Laki-Laki,4/23/2016 8:15,No,Malang,Jawa Timur,Health
+311,69.74,49,465673600.0,243.37,Perempuan,3/27/2016 16:41,No,Surabaya,Jawa Timur,Health
+312,75.55,22,292959660.0,169.4,Perempuan,2/19/2016 7:29,Yes,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Finance
+313,72.19,33,428926260.0,250.35,Laki-Laki,5/19/2016 11:16,No,Balikpapan,Kalimantan Timur,Furniture
+314,84.29,41,424468660.0,232.54,Perempuan,1/27/2016 20:47,No,Bogor,Jawa Barat,Health
+315,73.89,39,330123710.0,110.68,Perempuan,4/20/2016 0:41,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Bank
+316,75.84,21,339760260.0,186.98,Perempuan,2/7/2016 7:41,No,Bogor,Jawa Barat,Bank
+317,73.38,25,371412370.0,236.19,Laki-Laki,4/21/2016 9:30,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Travel
+318,80.72,31,480304860.0,186.37,Perempuan,4/19/2016 5:15,No,Medan,Sumatra Utara,Otomotif
+319,62.06,44,309219750.0,105.0,Perempuan,4/12/2016 14:01,Yes,Makassar,Sulawesi Selatan,Health
+320,51.5,34,469351120.0,135.31,Perempuan,3/15/2016 11:25,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Otomotif
+321,90.97,37,381640980.0,180.77,Perempuan,2/16/2016 18:21,No,Batam,Kepulauan Riau,Bank
+322,86.78,30,384666940.0,170.13,Laki-Laki,2/18/2016 23:08,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Furniture
+323,66.18,35,486334940.0,243.61,Perempuan,3/25/2016 8:40,No,Bogor,Jawa Barat,Finance
+324,84.33,41,384929510.0,240.95,Perempuan,3/16/2016 0:28,No,Bandung,Jawa Barat,Electronic
+325,36.87,36,205790270.0,195.91,Perempuan,1/28/2016 11:50,Yes,Bandung,Jawa Barat,Fashion
+326,34.78,48,300029940.0,208.21,Laki-Laki,3/24/2016 2:01,Yes,Bogor,Jawa Barat,Health
+327,76.84,32,461183730.0,231.59,Perempuan,3/3/2016 22:31,No,Semarang,Jawa Tengah,Fashion
+328,67.05,25,457949730.0,220.92,Perempuan,2/26/2016 9:54,No,Bandar Lampung,Lampung,Travel
+329,41.47,31,426677510.0,219.79,Perempuan,7/6/2016 15:56,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Fashion
+330,80.71,26,409335990.0,200.58,Perempuan,6/24/2016 5:50,No,Surabaya,Jawa Timur,Fashion
+331,80.09,31,466457880.0,214.08,Perempuan,5/23/2016 21:00,No,Depok,Jawa Barat,Furniture
+332,56.3,49,472016720.00000006,135.24,Laki-Laki,2/3/2016 19:12,Yes,Banjarmasin,Kalimantan Selatan,Travel
+333,79.36,34,400822870.0,245.78,Laki-Laki,4/28/2016 22:54,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Travel
+334,86.38,40,464515240.00000006,188.27,Laki-Laki,3/19/2016 14:57,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Fashion
+335,38.94,41,403109000.0,142.67,Laki-Laki,7/15/2016 9:08,Yes,Medan,Sumatra Utara,Bank
+336,87.26,35,441423850.0,184.03,Perempuan,5/12/2016 4:35,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,House
+337,75.32,28,419989500.0,233.6,Laki-Laki,1/1/2016 21:58,No,Bekasi,Jawa Barat,Fashion
+338,74.38,40,518172270.0,220.05,Laki-Laki,3/13/2016 13:50,No,Surabaya,Jawa Timur,House
+339,65.9,22,423854620.0,211.39,Perempuan,7/16/2016 14:13,No,Tangerang,Banten,Fashion
+340,36.31,47,405883100.0,168.92,Perempuan,4/18/2016 0:49,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,House
+341,72.23,48,369154310.0,115.35,Perempuan,7/17/2016 1:13,Yes,Bandar Lampung,Lampung,Fashion
+342,88.12,38,326576250.0,230.91,Perempuan,2/17/2016 7:05,No,Bekasi,Jawa Barat,Food
+343,83.97,28,398907110.0,205.5,Laki-Laki,6/16/2016 2:33,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Bank
+344,61.09,26,387353260.0,131.68,Laki-Laki,4/9/2016 16:31,Yes,Samarinda,Kalimantan Timur,Furniture
+345,65.77,21,295140300.0,218.61,Laki-Laki,3/18/2016 17:35,No,Tangerang Selatan,Banten,Finance
+346,81.58,25,277893910.0,199.39,Perempuan,5/11/2016 22:02,No,Balikpapan,Kalimantan Timur,Electronic
+347,37.87,52,394763740.0,188.56,Laki-Laki,5/25/2016 20:10,Yes,Makassar,Sulawesi Selatan,Otomotif
+348,76.2,37,525310450.00000006,178.51,Perempuan,2/29/2016 19:26,No,Bandar Lampung,Lampung,Electronic
+349,60.91,19,373167270.0,184.94,Perempuan,6/9/2016 14:24,Yes,Bekasi,Jawa Barat,Travel
+350,74.49,28,412972840.0,237.34,Perempuan,1/30/2016 16:15,No,Denpasar,Bali,Health
+351,73.71,23,396235840.0,211.38,Laki-Laki,2/15/2016 5:35,No,Bekasi,Jawa Barat,Electronic
+352,78.19,30,437331930.0,228.81,Perempuan,1/31/2016 6:14,No,Pakanbaru,Riau,Food
+353,79.54,44,493448200.00000006,217.68,Laki-Laki,1/5/2016 16:34,No,Tangerang Selatan,Banten,Health
+354,74.87,52,305889710.0,126.97,Perempuan,5/31/2016 2:17,Yes,Surakarta,Jawa Tengah,Travel
+355,87.09,36,404162570.0,221.98,Laki-Laki,4/21/2016 16:10,No,Surabaya,Jawa Timur,Otomotif
+356,37.45,47,218967070.0,167.86,Perempuan,4/10/2016 3:30,Yes,Palembang,Sumatra Selatan,Electronic
+357,49.84,39,320603360.0,111.59,Perempuan,2/9/2016 7:21,Yes,Medan,Sumatra Utara,Food
+358,51.38,59,296537430.0,158.56,Perempuan,6/17/2016 17:11,Yes,Palembang,Sumatra Selatan,House
+359,83.4,34,466838610.0,207.87,Perempuan,5/22/2016 21:54,No,Balikpapan,Kalimantan Timur,Electronic
+360,38.91,33,394588180.0,150.8,Laki-Laki,7/13/2016 7:41,Yes,Tangerang,Banten,Health
+361,62.14,41,415785230.0,110.93,Laki-Laki,1/23/2016 18:59,Yes,Batam,Kepulauan Riau,Otomotif
+362,79.72,28,462175770.0,193.8,Laki-Laki,5/20/2016 12:17,No,Malang,Jawa Timur,Fashion
+363,73.3,36,477479450.00000006,135.72,Laki-Laki,1/30/2016 4:38,Yes,Batam,Kepulauan Riau,Bank
+364,,42,515262930.00000006,231.48,Laki-Laki,4/21/2016 12:34,No,Banjarmasin,Kalimantan Selatan,House
+365,71.9,54,428602720.0,140.15,Laki-Laki,4/22/2016 20:32,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Furniture
+366,72.45,29,506281370.0,195.36,Laki-Laki,1/11/2016 6:02,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Travel
+367,77.07,40,311916010.0,261.02,Perempuan,3/1/2016 10:01,No,Depok,Jawa Barat,Health
+368,74.62,36,512450050.0,217.79,Perempuan,4/4/2016 8:19,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Otomotif
+369,82.07,25,327054490.0,205.38,Laki-Laki,6/20/2016 6:30,No,Depok,Jawa Barat,Food
+370,58.6,50,317803500.0,113.7,Perempuan,1/28/2016 7:10,Yes,Bandung,Jawa Barat,Furniture
+371,36.08,45,289920890.0,151.47,Laki-Laki,7/3/2016 4:11,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Otomotif
+372,79.44,26,425918850.0,206.79,Perempuan,5/15/2016 13:18,No,Makassar,Sulawesi Selatan,Health
+373,41.73,47,425689390.0,144.71,Perempuan,4/8/2016 22:48,Yes,Balikpapan,Kalimantan Timur,Finance
+374,73.19,25,449875160.0,203.74,Laki-Laki,1/19/2016 12:18,No,Bekasi,Jawa Barat,Food
+375,77.6,24,407063090.0,197.33,Laki-Laki,5/26/2016 15:40,No,Bekasi,Jawa Barat,Electronic
+376,89.0,37,364554260.0,222.26,Laki-Laki,1/26/2016 15:56,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Furniture
+377,69.2,42,182167930.0,123.8,Perempuan,6/17/2016 9:58,Yes,Batam,Kepulauan Riau,Travel
+378,67.56,31,436228660.0,125.45,Perempuan,4/25/2016 21:15,Yes,Malang,Jawa Timur,Food
+379,81.11,39,393515990.0,248.19,Laki-Laki,7/13/2016 11:41,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Furniture
+380,80.22,30,432644170.0,224.58,Perempuan,7/5/2016 15:14,No,Bandar Lampung,Lampung,House
+381,43.63,41,361635680.0,123.25,Laki-Laki,3/15/2016 14:06,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Bank
+382,77.66,29,469566580.0,168.15,Perempuan,6/19/2016 22:08,No,Bandung,Jawa Barat,Otomotif
+383,74.63,26,363827870.0,235.99,Laki-Laki,7/5/2016 20:16,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Health
+384,49.67,27,196133630.0,153.69,Perempuan,5/9/2016 8:44,Yes,Bogor,Jawa Barat,Electronic
+385,80.59,37,474211920.0,224.23,Perempuan,7/21/2016 23:14,No,Surabaya,Jawa Timur,Bank
+386,83.49,33,466018000.0,190.75,Laki-Laki,6/3/2016 17:32,No,Tasikmalaya,Jawa Barat,Bank
+387,44.46,42,213412360.0,132.66,Laki-Laki,1/15/2016 19:40,Yes,Surabaya,Jawa Timur,Fashion
+388,68.1,40,524323870.0,227.73,Laki-Laki,2/5/2016 16:50,No,Tasikmalaya,Jawa Barat,Food
+389,63.88,38,139942040.0,136.85,Perempuan,2/29/2016 23:56,Yes,Tangerang,Banten,Health
+390,78.83,36,462354410.00000006,234.64,Laki-Laki,5/8/2016 12:08,No,Samarinda,Kalimantan Timur,Fashion
+391,79.97,44,493143280.0,216.0,Perempuan,7/13/2016 1:48,No,Bekasi,Jawa Barat,House
+392,80.51,28,448059850.0,200.28,Laki-Laki,1/8/2016 2:34,No,Bekasi,Jawa Barat,Bank
+393,62.26,26,491426180.00000006,202.77,Perempuan,6/8/2016 12:25,No,Medan,Sumatra Utara,Bank
+394,66.99,47,190837570.0,124.44,Laki-Laki,6/15/2016 11:56,Yes,Makassar,Sulawesi Selatan,Otomotif
+395,71.05,20,346810870.0,204.22,Laki-Laki,6/13/2016 22:41,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Food
+396,42.05,51,198500890.0,174.55,Laki-Laki,6/20/2016 14:20,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Otomotif
+397,50.52,28,468503210.0,219.69,Perempuan,4/3/2016 6:17,Yes,Denpasar,Bali,House
+398,76.24,40,528673460.0,198.32,Laki-Laki,5/31/2016 23:42,No,Makassar,Sulawesi Selatan,Bank
+399,77.29,27,463857380.0,201.24,Laki-Laki,2/15/2016 3:43,No,Depok,Jawa Barat,Bank
+400,35.98,47,391955760.0,165.52,Laki-Laki,3/10/2016 23:26,Yes,Malang,Jawa Timur,House
+401,84.95,34,394655100.0,230.36,Perempuan,2/26/2016 17:01,No,Batam,Kepulauan Riau,Furniture
+402,39.34,43,218511160.0,148.93,Perempuan,4/17/2016 21:39,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Health
+403,87.23,29,357105770.0,202.12,Perempuan,3/26/2016 19:54,No,Palembang,Sumatra Selatan,Otomotif
+404,57.24,52,325311980.0,117.35,Laki-Laki,6/29/2016 21:39,Yes,Bandung,Jawa Barat,Travel
+405,81.58,41,388357340.0,248.16,Perempuan,1/27/2016 17:55,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Travel
+406,56.34,50,480995900.0,139.02,Laki-Laki,3/17/2016 23:39,Yes,Tangerang Selatan,Banten,House
+407,48.73,27,239338610.00000003,142.04,Perempuan,7/9/2016 16:23,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Furniture
+408,51.68,49,,258.62,Perempuan,6/28/2016 12:51,Yes,Surabaya,Jawa Timur,Finance
+409,35.34,45,326856320.0,152.86,Perempuan,6/18/2016 16:32,Yes,Batam,Kepulauan Riau,Electronic
+410,48.09,33,135417520.0,180.42,Perempuan,5/28/2016 12:38,Yes,Bandung,Jawa Barat,Electronic
+411,78.68,29,463580040.0,208.05,Perempuan,1/16/2016 16:40,No,Malang,Jawa Timur,Otomotif
+412,68.82,20,270264400.0,205.64,Laki-Laki,7/11/2016 15:45,No,Surabaya,Jawa Timur,Finance
+413,56.99,40,263992610.00000003,108.15,Perempuan,7/16/2016 23:08,Yes,Banjarmasin,Kalimantan Selatan,Finance
+414,86.63,39,446349960.0,209.64,Laki-Laki,4/6/2016 21:20,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Food
+415,41.18,43,293065850.0,129.25,Laki-Laki,7/5/2016 0:54,Yes,Medan,Sumatra Utara,Finance
+416,71.03,32,404926760.0,120.85,Perempuan,2/17/2016 23:47,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,House
+417,72.92,29,486001110.0,217.1,Laki-Laki,3/15/2016 17:33,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Finance
+418,77.14,24,421987860.0,184.88,Laki-Laki,1/21/2016 18:51,No,Balikpapan,Kalimantan Timur,Health
+419,60.7,43,555326310.0,192.6,Laki-Laki,6/6/2016 22:41,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Furniture
+420,34.3,41,372173760.0,160.74,Laki-Laki,5/16/2016 14:50,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Otomotif
+421,83.71,45,451948490.0,220.48,Laki-Laki,4/17/2016 19:10,No,Banjarmasin,Kalimantan Selatan,Otomotif
+422,53.38,35,425623590.0,120.06,Laki-Laki,3/30/2016 1:05,Yes,Padang,Sumatra Barat,Finance
+423,58.03,31,198711940.0,129.33,Perempuan,6/29/2016 9:04,Yes,Tangerang,Banten,Otomotif
+424,43.59,36,411948390.0,132.31,Laki-Laki,5/26/2016 13:43,Yes,Jakarta Utara,Daerah Khusus Ibukota Jakarta,House
+425,60.07,42,461743590.0,120.75,Laki-Laki,4/15/2016 10:16,Yes,Tangerang,Banten,Travel
+426,54.43,37,526261400.0,154.74,Laki-Laki,5/31/2016 9:06,Yes,Denpasar,Bali,Food
+427,81.99,33,428890980.0,230.9,Perempuan,2/15/2016 14:13,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Fashion
+428,60.53,29,397316360.0,123.28,Perempuan,5/9/2016 10:21,Yes,Tangerang Selatan,Banten,Electronic
+429,84.69,31,323124410.0,231.85,Laki-Laki,7/7/2016 23:32,No,Semarang,Jawa Tengah,Furniture
+430,88.72,32,307093570.0,211.87,Laki-Laki,1/3/2016 17:10,No,Bogor,Jawa Barat,Health
+431,88.89,35,353076430.0,218.8,Laki-Laki,7/17/2016 18:55,No,Medan,Sumatra Utara,Health
+432,69.58,43,196201180.0,255.07,Perempuan,4/4/2016 18:36,Yes,Bandung,Jawa Barat,House
+433,85.23,36,449670970.0,212.92,Laki-Laki,2/27/2016 12:34,No,Batam,Kepulauan Riau,Finance
+434,83.55,39,460714660.00000006,221.18,Laki-Laki,6/8/2016 20:13,No,Bandar Lampung,Lampung,Otomotif
+435,56.66,42,508791080.0,139.42,Perempuan,2/20/2016 10:52,Yes,Makassar,Sulawesi Selatan,Finance
+436,56.39,27,271721800.0,248.12,Laki-Laki,3/23/2016 21:06,No,Pakanbaru,Riau,Electronic
+437,76.24,27,447835080.0,214.42,Perempuan,6/7/2016 1:29,No,Depok,Jawa Barat,Fashion
+438,57.64,36,260487780.0,110.25,Laki-Laki,1/18/2016 15:18,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Fashion
+439,78.18,23,368842530.0,167.67,Perempuan,6/9/2016 19:32,No,Tangerang Selatan,Banten,Travel
+440,46.04,32,458499510.0,147.92,Perempuan,5/30/2016 20:07,Yes,Batam,Kepulauan Riau,Bank
+441,79.4,35,447767040.0,236.87,Perempuan,4/1/2016 9:21,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Otomotif
+442,36.44,39,366806160.0,147.64,Laki-Laki,5/31/2016 6:21,Yes,Semarang,Jawa Tengah,Finance
+443,53.14,38,343780290.0,109.0,Laki-Laki,7/3/2016 22:13,Yes,Depok,Jawa Barat,Food
+444,32.84,40,288630230.0,171.72,Perempuan,3/10/2016 1:36,Yes,Palembang,Sumatra Selatan,Bank
+445,73.72,32,364980280.0,256.4,Laki-Laki,3/18/2016 2:39,No,Malang,Jawa Timur,Fashion
+446,38.1,34,424487630.0,214.38,Laki-Laki,5/30/2016 18:08,Yes,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Finance
+447,73.93,44,519260350.0,218.22,Perempuan,2/20/2016 0:06,No,Bandar Lampung,Lampung,Finance
+448,51.87,50,363089090.0,119.65,Perempuan,3/10/2016 22:28,Yes,Surabaya,Jawa Timur,Food
+449,77.69,22,341968060.0,169.88,Laki-Laki,6/21/2016 14:32,No,Batam,Kepulauan Riau,House
+450,43.41,28,414008140.0,160.73,Perempuan,2/5/2016 15:26,Yes,Tangerang Selatan,Banten,Electronic
+451,55.92,24,237661410.0,145.08,Perempuan,5/31/2016 21:41,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Otomotif
+452,80.67,34,412365520.0,239.76,Perempuan,1/1/2016 2:52,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Electronic
+453,83.42,25,348953640.0,183.42,Laki-Laki,3/4/2016 14:10,No,Depok,Jawa Barat,Health
+454,82.12,52,200759510.0,201.15,Laki-Laki,2/3/2016 10:40,Yes,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Fashion
+455,66.17,33,,238.45,Perempuan,1/20/2016 0:26,No,Tangerang,Banten,Fashion
+456,43.01,35,338433480.0,127.37,Perempuan,6/11/2016 9:37,Yes,Surabaya,Jawa Timur,Health
+457,80.05,25,321719020.0,219.94,Laki-Laki,3/8/2016 5:48,No,Bandar Lampung,Lampung,Fashion
+458,64.88,42,490038570.0,129.8,Laki-Laki,2/14/2016 22:23,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Bank
+459,79.82,26,360588620.0,223.28,Laki-Laki,7/17/2016 22:04,No,Medan,Sumatra Utara,Food
+460,48.03,40,179191250.0,134.6,Laki-Laki,6/2/2016 22:16,Yes,Surabaya,Jawa Timur,Electronic
+461,32.99,45,344980090.0,177.46,Perempuan,4/30/2016 19:42,Yes,Malang,Jawa Timur,Finance
+462,74.88,27,470681750.0,175.17,Laki-Laki,4/17/2016 6:58,No,Bekasi,Jawa Barat,House
+463,36.49,52,294954310.0,196.61,Laki-Laki,3/9/2016 0:41,Yes,Serang,Banten,Fashion
+464,88.04,45,438128880.0,191.17,Laki-Laki,3/7/2016 20:02,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Health
+465,45.7,33,471690170.0,151.12,Laki-Laki,5/26/2016 10:33,Yes,Banjarmasin,Kalimantan Selatan,Electronic
+466,82.38,35,179227510.0,159.6,Perempuan,7/18/2016 1:36,Yes,Batam,Kepulauan Riau,Fashion
+467,52.68,23,277312000.0,149.2,Laki-Laki,7/16/2016 5:56,Yes,Bogor,Jawa Barat,Furniture
+468,65.59,47,197860670.0,121.81,Perempuan,3/22/2016 6:41,Yes,Bekasi,Jawa Barat,Fashion
+469,65.65,25,447158040.0,224.92,Laki-Laki,6/3/2016 6:34,No,Surabaya,Jawa Timur,Electronic
+470,43.84,36,494149670.0,167.42,Perempuan,6/28/2016 9:19,Yes,Tangerang Selatan,Banten,House
+471,67.69,37,534857330.0,216.57,Perempuan,7/18/2016 18:33,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Otomotif
+472,78.37,24,385105560.0,207.27,Perempuan,1/23/2016 4:47,No,Tangerang Selatan,Banten,Fashion
+473,81.46,29,361452840.0,231.54,Perempuan,2/29/2016 11:00,No,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Furniture
+474,47.48,31,205514400.0,141.34,Perempuan,6/30/2016 0:19,Yes,Tangerang Selatan,Banten,Otomotif
+475,75.15,33,499076690.0,219.49,Laki-Laki,6/19/2016 18:19,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Bank
+476,78.76,24,324959320.0,219.98,Laki-Laki,1/8/2016 8:08,No,Bogor,Jawa Barat,Electronic
+477,44.96,50,369614000.0,132.71,Laki-Laki,1/2/2016 12:25,Yes,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Otomotif
+478,39.56,41,414704220.0,143.13,Laki-Laki,5/13/2016 11:57,Yes,Tangerang Selatan,Banten,House
+479,39.76,28,247453850.00000003,196.83,Laki-Laki,2/8/2016 14:02,Yes,Bekasi,Jawa Barat,Health
+480,57.11,22,417743480.0,207.17,Laki-Laki,6/7/2016 23:46,No,Samarinda,Kalimantan Timur,Fashion
+481,83.26,40,491579200.00000006,187.76,Laki-Laki,1/2/2016 14:36,No,Medan,Sumatra Utara,Electronic
+482,69.42,25,460538190.0,213.38,Perempuan,2/13/2016 4:16,No,Samarinda,Kalimantan Timur,Health
+483,50.6,30,239337910.0,129.88,Laki-Laki,5/3/2016 12:57,Yes,Palembang,Sumatra Selatan,Finance
+484,46.2,37,359207660.0,119.3,Perempuan,4/3/2016 11:38,Yes,Bogor,Jawa Barat,House
+485,66.88,35,439536720.0,119.47,Laki-Laki,3/23/2016 19:58,Yes,Cimahi,Jawa Barat,Fashion
+486,83.97,40,464041690.0,158.42,Laki-Laki,2/2/2016 11:49,No,Palembang,Sumatra Selatan,House
+487,76.56,30,476211260.0,213.75,Perempuan,3/8/2016 10:39,No,Samarinda,Kalimantan Timur,Bank
+488,35.49,48,307821430.0,159.77,Perempuan,4/8/2016 14:35,Yes,Pontianak,Kalimantan Barat,Food
+489,80.29,31,346202360.0,244.87,Laki-Laki,6/30/2016 0:40,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Bank
+490,50.19,40,237910890.0,117.3,Perempuan,3/25/2016 19:02,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,House
+491,59.12,33,197470210.0,,Perempuan,5/12/2016 21:32,Yes,Makassar,Sulawesi Selatan,Finance
+492,59.88,30,528745980.0,193.63,Laki-Laki,3/2/2016 5:11,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Furniture
+493,59.7,28,344109500.0,120.25,Perempuan,5/10/2016 14:12,Yes,Palembang,Sumatra Selatan,Finance
+494,67.8,30,278667830.0,117.75,Laki-Laki,3/3/2016 2:59,Yes,Samarinda,Kalimantan Timur,House
+495,81.59,35,460785710.0,223.16,Perempuan,7/4/2016 11:03,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Travel
+496,81.1,29,428204490.0,216.49,Laki-Laki,7/8/2016 3:47,No,Bekasi,Jawa Barat,Furniture
+497,41.7,39,300287470.0,126.95,Perempuan,5/27/2016 5:35,Yes,Makassar,Sulawesi Selatan,Furniture
+498,73.94,27,478331070.0,173.49,Perempuan,2/10/2016 13:46,No,Padang,Sumatra Barat,Travel
+499,58.35,37,491630650.0,132.63,Perempuan,6/12/2016 21:21,Yes,Bandung,Jawa Barat,Food
+500,51.56,46,441715330.0,124.85,Perempuan,1/7/2016 13:58,Yes,Tangerang Selatan,Banten,Bank
+501,79.81,37,362930820.0,253.17,Perempuan,5/13/2016 14:12,No,Palembang,Sumatra Selatan,Electronic
+502,66.17,26,445061540.0,228.7,Perempuan,5/2/2016 0:01,No,Batam,Kepulauan Riau,Food
+503,58.21,37,333028080.0,105.94,Perempuan,2/7/2016 17:06,Yes,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Food
+504,66.12,49,273223230.0,113.8,Perempuan,2/15/2016 7:27,Yes,Banjarmasin,Kalimantan Selatan,Bank
+505,80.47,42,493535420.0,215.18,Laki-Laki,2/21/2016 5:23,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Fashion
+506,77.05,31,435128820.0,236.64,Perempuan,3/20/2016 22:27,No,Banjarmasin,Kalimantan Selatan,Travel
+507,49.99,41,427477820.0,121.07,Perempuan,3/24/2016 9:34,Yes,Makassar,Sulawesi Selatan,Furniture
+508,80.3,58,343633570.0,173.43,Perempuan,4/4/2016 20:01,Yes,Padang,Sumatra Barat,Electronic
+509,79.36,33,436315250.0,234.72,Laki-Laki,1/2/2016 4:50,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Electronic
+510,57.86,30,131735380.0,166.86,Perempuan,7/8/2016 17:14,Yes,Bekasi,Jawa Barat,Fashion
+511,70.29,26,434373590.0,231.37,Laki-Laki,3/28/2016 19:48,No,Samarinda,Kalimantan Timur,Food
+512,84.53,33,433454420.0,215.18,Laki-Laki,7/11/2016 9:32,No,Balikpapan,Kalimantan Timur,House
+513,59.13,44,346677590.0,106.04,Laki-Laki,6/9/2016 17:11,Yes,Pakanbaru,Riau,Bank
+514,81.51,41,373886240.0,250.03,Perempuan,5/19/2016 9:30,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Bank
+515,42.94,37,396771550.0,130.4,Laki-Laki,4/12/2016 12:35,Yes,Medan,Sumatra Utara,Furniture
+516,84.81,32,303097410.0,233.93,Laki-Laki,7/4/2016 23:17,No,Balikpapan,Kalimantan Timur,Finance
+517,82.79,34,335984250.0,132.08,Perempuan,2/1/2016 0:52,Yes,Pakanbaru,Riau,Otomotif
+518,59.22,55,273920710.0,126.39,Laki-Laki,1/13/2016 2:39,Yes,Medan,Sumatra Utara,Otomotif
+519,35.0,40,322236110.0,151.25,Laki-Laki,6/18/2016 16:02,Yes,Tangerang,Banten,Health
+520,46.61,42,460997180.00000006,136.18,Perempuan,1/1/2016 20:17,Yes,Medan,Sumatra Utara,Otomotif
+521,63.26,29,383511590.0,120.46,Laki-Laki,3/2/2016 4:02,Yes,Medan,Sumatra Utara,Health
+522,79.16,32,486937220.00000006,202.9,Laki-Laki,3/30/2016 20:23,No,Padang,Sumatra Barat,Otomotif
+523,67.94,43,479130190.0,128.16,Perempuan,5/1/2016 0:23,Yes,Surabaya,Jawa Timur,Fashion
+524,79.91,32,439406940.0,230.18,Laki-Laki,6/17/2016 3:02,No,Depok,Jawa Barat,House
+525,66.14,41,546650650.0,165.27,Perempuan,3/23/2016 8:52,No,Bandung,Jawa Barat,House
+526,43.65,39,445543280.0,138.87,Perempuan,5/8/2016 22:24,Yes,Cimahi,Jawa Barat,Health
+527,59.61,21,424463340.0,198.45,Laki-Laki,4/6/2016 5:55,No,Balikpapan,Kalimantan Timur,Travel
+528,46.61,52,190687770.0,156.99,Perempuan,4/5/2016 5:54,Yes,Semarang,Jawa Tengah,Finance
+529,89.37,34,299321540.0,162.03,Laki-Laki,4/16/2016 12:26,No,Bekasi,Jawa Barat,Travel
+530,65.1,49,416202640.0,118.1,Laki-Laki,6/1/2016 3:44,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Furniture
+531,53.44,42,300355230.0,108.17,Laki-Laki,4/4/2016 22:00,Yes,Bandung,Jawa Barat,Bank
+532,79.53,51,322925260.0,244.91,Perempuan,6/26/2016 4:22,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Bank
+533,91.43,39,328748770.0,209.91,Laki-Laki,7/7/2016 3:55,No,Medan,Sumatra Utara,Electronic
+534,73.57,30,492640610.0,212.38,Perempuan,3/20/2016 8:22,No,Surabaya,Jawa Timur,Fashion
+535,78.76,32,490089810.0,208.02,Laki-Laki,4/20/2016 10:04,No,Palembang,Sumatra Selatan,Health
+536,76.49,23,395199070.0,181.11,Perempuan,3/25/2016 5:05,No,Padang,Sumatra Barat,House
+537,61.72,26,470953420.0,218.49,Perempuan,2/14/2016 7:15,No,Surabaya,Jawa Timur,House
+538,84.53,35,,236.29,Perempuan,3/26/2016 0:32,No,Palembang,Sumatra Selatan,Health
+539,72.03,34,495487580.0,230.95,Laki-Laki,7/5/2016 22:33,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Electronic
+540,77.47,36,493574130.0,222.91,Laki-Laki,3/14/2016 3:29,No,Bandung,Jawa Barat,Otomotif
+541,75.65,39,448150850.0,247.9,Laki-Laki,5/30/2016 2:34,No,Semarang,Jawa Tengah,Furniture
+542,78.15,33,504299950.00000006,194.37,Perempuan,3/7/2016 22:32,No,Pontianak,Kalimantan Barat,Food
+543,63.8,38,252261310.0,108.7,Laki-Laki,3/19/2016 0:27,Yes,Cimahi,Jawa Barat,Furniture
+544,76.59,29,472688440.0,211.64,Perempuan,6/18/2016 5:17,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Otomotif
+545,42.6,55,385851550.0,168.29,Perempuan,7/11/2016 18:12,Yes,Surabaya,Jawa Timur,House
+546,78.77,28,444483340.0,211.83,Perempuan,1/1/2016 8:27,No,Semarang,Jawa Tengah,Food
+547,83.4,39,426156360.0,235.01,Perempuan,4/7/2016 1:57,No,Tangerang Selatan,Banten,Bank
+548,79.53,33,430271310.0,236.72,Perempuan,2/28/2016 22:02,No,Palembang,Sumatra Selatan,Electronic
+549,73.89,35,493469480.0,229.99,Laki-Laki,6/26/2016 17:25,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Fashion
+550,75.8,36,498556800.0,224.9,Perempuan,1/21/2016 4:30,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Electronic
+551,81.95,31,452890060.0,208.76,Laki-Laki,5/1/2016 21:46,No,Surabaya,Jawa Timur,Food
+552,56.39,58,225766660.0,154.23,Perempuan,2/14/2016 10:06,Yes,Bandar Lampung,Lampung,Electronic
+553,44.73,35,387218790.0,127.56,Laki-Laki,1/27/2016 18:25,Yes,Cimahi,Jawa Barat,Travel
+554,38.35,33,332135230.0,145.48,Laki-Laki,6/16/2016 20:24,Yes,Bandung,Jawa Barat,Finance
+555,72.53,37,514323740.00000006,223.93,Perempuan,7/21/2016 10:01,No,Bandung,Jawa Barat,Food
+556,56.2,49,374849580.0,114.85,Laki-Laki,4/21/2016 18:31,Yes,Bogor,Jawa Barat,Otomotif
+557,79.67,28,410032840.0,226.79,Perempuan,7/20/2016 1:56,No,Pontianak,Kalimantan Barat,House
+558,75.42,26,443615900.0,164.25,Laki-Laki,2/26/2016 17:14,No,Tangerang,Banten,Fashion
+559,78.64,31,421984290.0,235.28,Laki-Laki,1/16/2016 17:56,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,House
+560,67.69,44,261417380.0,109.22,Perempuan,4/1/2016 1:57,Yes,Bekasi,Jawa Barat,Electronic
+561,38.35,41,244202070.0,144.69,Laki-Laki,6/24/2016 8:42,Yes,Malang,Jawa Timur,Furniture
+562,59.52,44,472583020.0,251.08,Laki-Laki,5/27/2016 18:45,No,Palembang,Sumatra Selatan,Travel
+563,62.26,37,545920970.0,166.19,Perempuan,5/26/2016 15:40,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Travel
+564,64.75,36,441007210.0,117.66,Perempuan,4/6/2016 1:19,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Travel
+565,79.97,26,432235860.0,185.45,Laki-Laki,1/8/2016 19:38,No,Medan,Sumatra Utara,Bank
+566,47.9,42,339273760.0,114.53,Perempuan,2/24/2016 19:08,Yes,Pakanbaru,Riau,House
+567,80.38,30,385916720.0,238.06,Perempuan,3/10/2016 7:07,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,House
+568,64.51,42,556393600.0,190.71,Laki-Laki,4/29/2016 7:49,No,Semarang,Jawa Tengah,Travel
+569,71.28,37,471152010.0,246.72,Laki-Laki,4/10/2016 16:08,No,Denpasar,Bali,Fashion
+570,50.32,40,195752200.0,125.65,Perempuan,4/27/2016 18:25,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Health
+571,72.76,33,465023090.0,240.63,Laki-Laki,5/10/2016 4:28,No,Palembang,Sumatra Selatan,Furniture
+572,72.8,35,444861690.0,249.54,Perempuan,1/3/2016 23:21,No,Padang,Sumatra Barat,Finance
+573,74.59,23,280945420.0,158.35,Laki-Laki,2/15/2016 16:52,Yes,Tangerang,Banten,Finance
+574,46.66,45,343711690.0,118.16,Perempuan,3/9/2016 2:07,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,House
+575,48.86,54,372320830.0,134.46,Perempuan,1/9/2016 17:33,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Furniture
+576,37.05,39,348199810.0,142.81,Laki-Laki,2/3/2016 5:47,Yes,Tangerang Selatan,Banten,House
+577,81.21,36,443760870.0,233.04,Perempuan,1/2/2016 9:30,No,Bandung,Jawa Barat,Otomotif
+578,66.89,23,451037930.0,208.24,Laki-Laki,1/4/2016 7:28,No,Bekasi,Jawa Barat,Furniture
+579,68.11,38,517191360.0,231.21,Perempuan,1/7/2016 21:21,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Bank
+580,69.15,46,254974580.00000003,112.72,Perempuan,7/24/2016 0:22,Yes,Depok,Jawa Barat,Health
+581,65.72,36,197928360.0,120.12,Perempuan,2/13/2016 13:57,Yes,Medan,Sumatra Utara,Fashion
+582,40.04,27,336692020.0,161.58,Perempuan,5/8/2016 10:25,Yes,Cimahi,Jawa Barat,Food
+583,68.6,33,479142580.0,135.08,Perempuan,2/17/2016 18:50,Yes,Surabaya,Jawa Timur,Health
+584,56.16,25,465008880.0,164.25,Laki-Laki,1/22/2016 19:43,Yes,Bandung,Jawa Barat,Food
+585,78.6,46,292376910.0,254.59,Laki-Laki,7/20/2016 13:21,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Bank
+586,78.29,38,404914720.0,252.07,Perempuan,1/5/2016 20:58,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Furniture
+587,43.83,45,249793740.0,129.01,Perempuan,1/29/2016 5:39,Yes,Tasikmalaya,Jawa Barat,Finance
+588,77.31,32,439547010.0,238.1,Perempuan,6/17/2016 20:18,No,Denpasar,Bali,Electronic
+589,39.86,28,358198610.0,161.24,Perempuan,2/23/2016 13:55,Yes,Bekasi,Jawa Barat,Otomotif
+590,66.77,25,411929490.0,141.13,Perempuan,7/9/2016 11:18,Yes,Bekasi,Jawa Barat,Otomotif
+591,57.2,42,404173210.0,110.66,Perempuan,3/19/2016 11:09,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Otomotif
+592,73.15,25,452418540.0,211.12,Laki-Laki,1/29/2016 7:14,No,Pakanbaru,Riau,Otomotif
+593,82.07,24,352365510.0,193.97,Perempuan,6/14/2016 7:02,No,Denpasar,Bali,House
+594,49.84,38,474469170.0,135.24,Laki-Laki,5/18/2016 3:19,Yes,Makassar,Sulawesi Selatan,Finance
+595,43.97,36,482047650.0,156.97,Laki-Laki,1/30/2016 9:54,Yes,Palembang,Sumatra Selatan,Electronic
+596,77.25,27,391307840.0,231.38,Laki-Laki,4/25/2016 16:58,No,Bogor,Jawa Barat,House
+597,74.84,37,453425700.0,246.44,Laki-Laki,1/14/2016 16:30,No,Cimahi,Jawa Barat,Furniture
+598,83.53,36,473803120.0,204.56,Perempuan,7/6/2016 5:34,No,Depok,Jawa Barat,Health
+599,38.63,48,404439770.0,222.11,Perempuan,4/7/2016 10:51,Yes,Balikpapan,Kalimantan Timur,Bank
+600,84.0,48,328079710.0,136.21,Laki-Laki,4/17/2016 5:08,Yes,Tangerang,Banten,House
+601,52.13,50,286488510.0,118.27,Laki-Laki,1/28/2016 17:03,Yes,Malang,Jawa Timur,Travel
+602,71.83,40,155440180.0,135.48,Laki-Laki,2/18/2016 22:42,Yes,Cimahi,Jawa Barat,Electronic
+603,78.36,24,412443080.0,196.77,Laki-Laki,6/24/2016 21:09,No,Semarang,Jawa Tengah,Travel
+604,50.18,35,441042980.0,127.82,Laki-Laki,6/20/2016 4:24,Yes,Semarang,Jawa Tengah,Bank
+605,64.67,51,170216270.0,138.35,Laki-Laki,2/14/2016 16:33,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Fashion
+606,69.5,26,478442930.00000006,203.84,Perempuan,2/27/2016 13:51,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Health
+607,65.22,30,463843590.0,240.09,Laki-Laki,5/7/2016 15:16,No,Balikpapan,Kalimantan Timur,Otomotif
+608,62.06,40,444455200.0,116.27,Laki-Laki,3/16/2016 20:10,Yes,Padang,Sumatra Barat,Fashion
+609,84.29,30,398888630.0,160.33,Laki-Laki,6/26/2016 2:06,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,House
+610,32.91,37,361840850.0,181.02,Perempuan,7/17/2016 14:26,Yes,Padang,Sumatra Barat,Travel
+611,39.5,31,349378750.0,148.19,Laki-Laki,1/28/2016 16:42,Yes,Batam,Kepulauan Riau,Otomotif
+612,75.19,31,234517990.0,245.76,Laki-Laki,6/16/2016 18:04,No,Bogor,Jawa Barat,House
+613,76.21,31,460844790.0,228.94,Laki-Laki,6/19/2016 23:21,No,Makassar,Sulawesi Selatan,Electronic
+614,67.76,31,463238790.0,242.59,Perempuan,5/24/2016 17:42,No,Samarinda,Kalimantan Timur,Fashion
+615,40.01,53,360242190.0,161.77,Perempuan,3/1/2016 22:06,Yes,Padang,Sumatra Barat,Furniture
+616,52.7,41,287417480.0,109.34,Laki-Laki,1/31/2016 8:50,Yes,Makassar,Sulawesi Selatan,House
+617,68.41,38,429997260.0,259.76,Perempuan,4/30/2016 15:27,No,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Travel
+618,35.55,39,361154220.0,151.18,Perempuan,1/13/2016 20:38,Yes,Semarang,Jawa Tengah,Health
+619,74.54,24,402631110.0,,Perempuan,3/30/2016 16:15,No,Makassar,Sulawesi Selatan,Food
+620,81.75,24,368592910.0,190.08,,4/29/2016 18:53,No,Bogor,Jawa Barat,Electronic
+621,87.85,31,365252860.0,210.27,Laki-Laki,6/14/2016 19:48,No,Bogor,Jawa Barat,Otomotif
+622,60.23,60,323673980.0,151.54,Laki-Laki,7/15/2016 15:43,Yes,Bekasi,Jawa Barat,Fashion
+623,87.97,35,342429850.0,149.25,Laki-Laki,3/24/2016 5:38,No,Bandung,Jawa Barat,Bank
+624,78.17,27,456594530.0,192.27,Laki-Laki,4/26/2016 20:57,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Bank
+625,67.91,23,385014350.0,146.8,Laki-Laki,1/12/2016 3:28,Yes,Banjarmasin,Kalimantan Selatan,Electronic
+626,85.77,27,365832110.0,191.78,Laki-Laki,4/9/2016 23:26,No,Malang,Jawa Timur,Health
+627,41.16,49,416139080.0,150.83,Laki-Laki,3/28/2016 9:15,Yes,Serang,Banten,Otomotif
+628,53.54,39,331201150.0,108.03,Perempuan,6/23/2016 11:05,Yes,Pakanbaru,Riau,Otomotif
+629,73.94,26,387877420.0,236.15,Laki-Laki,1/24/2016 1:53,No,Makassar,Sulawesi Selatan,Finance
+630,63.43,29,465529120.0,236.75,Laki-Laki,4/15/2016 10:18,No,Banjarmasin,Kalimantan Selatan,Electronic
+631,84.59,36,330183980.0,241.8,Laki-Laki,4/26/2016 13:13,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Food
+632,70.13,31,496227760.0,224.98,Perempuan,5/16/2016 23:21,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Furniture
+633,40.19,37,387512160.0,136.99,Perempuan,1/18/2016 2:51,Yes,Pakanbaru,Riau,Electronic
+634,58.95,55,393698900.0,131.29,Laki-Laki,6/20/2016 8:34,Yes,Surakarta,Jawa Tengah,Finance
+635,35.76,51,318657080.0,195.07,Perempuan,7/18/2016 4:53,Yes,Bandar Lampung,Lampung,Electronic
+636,59.36,49,328517210.0,110.84,Perempuan,7/1/2016 1:12,Yes,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Otomotif
+637,91.1,40,388497830.0,198.13,Laki-Laki,3/7/2016 22:51,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Food
+638,61.04,41,530635840.0,149.21,Perempuan,5/2/2016 15:31,Yes,Cimahi,Jawa Barat,Food
+639,74.06,23,282418430.0,225.99,Perempuan,7/23/2016 6:18,No,Tangerang Selatan,Banten,Health
+640,64.63,45,109188030.0,158.8,Laki-Laki,6/12/2016 3:11,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Health
+641,81.29,28,232674400.0,219.72,Perempuan,2/15/2016 20:41,No,Tangerang,Banten,Otomotif
+642,76.07,36,476234780.0,235.56,Perempuan,1/23/2016 1:42,No,Tangerang Selatan,Banten,Health
+643,75.92,22,268993620.0,182.65,Perempuan,2/26/2016 1:18,No,Surabaya,Jawa Timur,Travel
+644,78.35,46,372297380.0,253.48,Perempuan,1/11/2016 2:07,No,Bekasi,Jawa Barat,Finance
+645,46.14,28,278067790.0,137.97,Laki-Laki,4/4/2016 13:56,Yes,Batam,Kepulauan Riau,Fashion
+646,44.33,41,303702490.0,120.63,Perempuan,1/14/2016 9:27,Yes,Banjarmasin,Kalimantan Selatan,Furniture
+647,46.43,28,377457010.0,137.2,Laki-Laki,4/25/2016 3:18,Yes,Banjarmasin,Kalimantan Selatan,Furniture
+648,66.04,27,503172880.0,199.76,Perempuan,3/5/2016 23:02,No,Tangerang,Banten,Fashion
+649,84.31,29,329974470.0,225.87,Perempuan,1/6/2016 21:43,No,Semarang,Jawa Tengah,Furniture
+650,83.66,38,482139140.0,175.14,Perempuan,2/18/2016 3:58,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Furniture
+651,81.25,33,456306060.0,222.35,Laki-Laki,4/16/2016 14:15,No,Palembang,Sumatra Selatan,Fashion
+652,85.26,32,387969680.0,224.07,Laki-Laki,2/24/2016 6:18,No,Semarang,Jawa Tengah,Health
+653,86.53,46,325500770.0,,Perempuan,6/29/2016 1:19,No,Semarang,Jawa Tengah,Electronic
+654,,26,411741120.0,224.2,Laki-Laki,1/5/2016 6:34,No,Pakanbaru,Riau,Health
+655,52.84,43,199466470.0,122.31,Perempuan,7/16/2016 10:14,Yes,Batam,Kepulauan Riau,Finance
+656,85.24,31,,182.84,,6/17/2016 3:23,No,Denpasar,Bali,House
+657,74.71,46,265358030.0,258.06,Laki-Laki,6/13/2016 11:06,No,Tangerang,Banten,Food
+658,82.95,39,488639900.0,201.29,Perempuan,4/5/2016 8:18,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Travel
+659,76.42,26,422206330.0,223.16,Laki-Laki,4/17/2016 18:38,No,Balikpapan,Kalimantan Timur,Health
+660,42.04,49,471261000.0,182.11,Perempuan,2/3/2016 16:54,Yes,Banjarmasin,Kalimantan Selatan,Finance
+661,46.28,26,350387310.0,228.78,Laki-Laki,4/18/2016 21:07,Yes,Palembang,Sumatra Selatan,Finance
+662,48.26,50,305015620.0,122.45,Laki-Laki,6/18/2016 22:31,Yes,Balikpapan,Kalimantan Timur,Bank
+663,71.03,55,197306550.0,150.77,Perempuan,3/12/2016 7:18,Yes,Bekasi,Jawa Barat,Electronic
+664,81.37,33,464884280.0,215.04,Perempuan,1/15/2016 1:20,No,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Fashion
+665,58.05,32,111153700.0,195.54,Laki-Laki,2/12/2016 10:39,Yes,Serang,Banten,House
+666,75.0,29,447756120.0,230.36,Laki-Laki,2/16/2016 2:29,No,Tangerang,Banten,Food
+667,79.61,31,408398410.0,235.97,Perempuan,4/4/2016 21:23,No,Palembang,Sumatra Selatan,Furniture
+668,52.56,31,232030330.00000003,250.36,Laki-Laki,4/24/2016 1:48,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Finance
+669,62.18,33,461297760.0,126.44,Perempuan,5/20/2016 0:00,Yes,Surabaya,Jawa Timur,Travel
+670,77.89,26,449319500.0,201.54,Perempuan,5/15/2016 3:10,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,House
+671,66.08,61,412763540.0,184.23,Laki-Laki,1/7/2016 23:02,Yes,Padang,Sumatra Barat,Electronic
+672,89.21,33,308547680.0,210.53,Perempuan,7/19/2016 12:05,No,Medan,Sumatra Utara,Furniture
+673,49.96,55,426780340.0,151.94,Laki-Laki,4/4/2016 0:02,Yes,Palembang,Sumatra Selatan,Furniture
+674,77.44,28,459341750.0,210.39,Perempuan,6/10/2016 4:21,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Electronic
+675,82.58,38,458477460.0,225.23,Laki-Laki,3/11/2016 14:50,No,Batam,Kepulauan Riau,Travel
+676,39.36,29,367234280.0,161.79,Laki-Laki,1/14/2016 20:58,Yes,Bekasi,Jawa Barat,Electronic
+677,47.23,38,494077850.0,149.8,Laki-Laki,6/22/2016 5:22,Yes,Batam,Kepulauan Riau,Electronic
+678,87.85,34,362713890.0,153.01,Perempuan,3/19/2016 8:00,No,Medan,Sumatra Utara,Electronic
+679,65.57,46,163875250.0,130.86,Perempuan,4/15/2016 15:07,Yes,Medan,Sumatra Utara,Otomotif
+680,78.01,26,439105800.0,200.71,Laki-Laki,3/28/2016 2:29,No,Palembang,Sumatra Selatan,Fashion
+681,44.15,28,342073690.0,141.96,Laki-Laki,1/22/2016 15:03,Yes,Depok,Jawa Barat,Otomotif
+682,43.57,36,356802110.0,125.2,Laki-Laki,6/25/2016 17:33,Yes,Surakarta,Jawa Tengah,Bank
+683,76.83,28,475935880.0,192.81,Perempuan,3/4/2016 14:33,No,Bandung,Jawa Barat,Health
+684,42.06,34,302688330.0,131.55,Perempuan,6/29/2016 2:48,Yes,Palembang,Sumatra Selatan,House
+685,76.27,27,420578620.0,226.69,Laki-Laki,6/18/2016 1:42,No,Cimahi,Jawa Barat,Travel
+686,74.27,37,456266790.0,247.05,Laki-Laki,1/31/2016 9:57,No,Makassar,Sulawesi Selatan,Otomotif
+687,73.27,28,471109730.0,216.24,Laki-Laki,5/22/2016 15:17,No,Surabaya,Jawa Timur,Bank
+688,74.58,36,494909170.0,230.52,Perempuan,7/22/2016 11:05,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Electronic
+689,77.5,28,426984880.0,225.34,Laki-Laki,7/13/2016 14:05,No,Bekasi,Jawa Barat,Furniture
+690,87.16,33,425641510.0,197.15,Perempuan,2/11/2016 11:50,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Food
+691,87.16,37,,231.95,Laki-Laki,3/16/2016 20:33,No,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Fashion
+692,66.26,47,101836420.0,179.04,Laki-Laki,4/25/2016 19:31,Yes,Tangerang Selatan,Banten,House
+693,65.15,29,289350880.0,117.3,Perempuan,7/14/2016 22:43,Yes,Bandar Lampung,Lampung,Finance
+694,68.25,33,535361120.0,198.86,Laki-Laki,5/30/2016 8:02,No,Medan,Sumatra Utara,Furniture
+695,73.49,38,469927220.00000006,244.23,Perempuan,2/14/2016 11:36,No,Semarang,Jawa Tengah,Electronic
+696,39.19,54,368068120.0,173.05,Perempuan,1/23/2016 21:15,Yes,Tangerang Selatan,Banten,Health
+697,80.15,25,386369270.0,214.49,Perempuan,7/18/2016 2:51,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Otomotif
+698,,28,340756780.0,189.91,Perempuan,2/10/2016 8:21,No,Surabaya,Jawa Timur,Travel
+699,73.88,29,441768180.0,233.61,Perempuan,1/4/2016 6:37,No,Bandung,Jawa Barat,Fashion
+700,58.6,19,311430630.0,197.93,Laki-Laki,6/5/2016 21:38,No,Surabaya,Jawa Timur,Otomotif
+701,69.77,54,403675930.0,132.27,Perempuan,6/1/2016 3:17,Yes,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Furniture
+702,87.27,30,362768070.0,204.27,Laki-Laki,3/6/2016 6:51,Yes,Makassar,Sulawesi Selatan,Health
+703,77.65,28,463390620.0,208.01,Perempuan,2/26/2016 19:35,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Health
+704,76.02,40,512219330.0,219.55,Perempuan,7/13/2016 14:30,No,Bandung,Jawa Barat,Food
+705,78.84,26,396156600.0,217.66,Laki-Laki,6/29/2016 7:20,No,Samarinda,Kalimantan Timur,Electronic
+706,71.33,23,217507080.0,169.4,Perempuan,3/15/2016 6:54,Yes,Bogor,Jawa Barat,Finance
+707,81.9,41,467416810.0,225.47,Perempuan,6/11/2016 6:47,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Finance
+708,46.89,48,507877580.0,176.78,Laki-Laki,7/17/2016 13:22,Yes,Depok,Jawa Barat,Furniture
+709,77.8,57,305962160.0,152.94,Perempuan,2/14/2016 14:38,Yes,Surabaya,Jawa Timur,Fashion
+710,45.44,43,339174850.0,119.27,Perempuan,5/4/2016 5:01,Yes,Banjarmasin,Kalimantan Selatan,Fashion
+711,69.96,31,513897090.0,214.06,Laki-Laki,5/20/2016 12:17,No,Tangerang,Banten,Food
+712,87.35,35,406800100.0,158.29,Laki-Laki,1/26/2016 2:47,No,Bekasi,Jawa Barat,Fashion
+713,49.42,53,318256750.0,128.0,Laki-Laki,7/7/2016 18:07,Yes,Banjarmasin,Kalimantan Selatan,Fashion
+714,71.27,21,351034040.0,216.03,Laki-Laki,1/11/2016 12:46,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,House
+715,49.19,38,427031570.0,123.08,Perempuan,5/12/2016 12:11,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Travel
+716,39.96,35,377292230.0,138.52,Laki-Laki,2/28/2016 23:21,Yes,Depok,Jawa Barat,Food
+717,85.01,29,418583480.0,192.5,Perempuan,5/3/2016 16:02,No,Bandung,Jawa Barat,Health
+718,68.95,51,522362890.0,185.85,Laki-Laki,3/15/2016 20:19,No,Balikpapan,Kalimantan Timur,Finance
+719,67.59,45,410743830.0,113.69,Perempuan,7/23/2016 5:21,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Electronic
+720,75.71,34,434768600.0,246.06,Perempuan,3/11/2016 10:01,No,Medan,Sumatra Utara,Travel
+721,43.07,36,424081140.0,137.63,Laki-Laki,2/11/2016 20:45,Yes,Bandung,Jawa Barat,Otomotif
+722,39.47,43,459032350.0,163.48,Laki-Laki,7/6/2016 23:09,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Finance
+723,48.22,40,517180370.0,214.33,Perempuan,3/22/2016 19:14,No,Surabaya,Jawa Timur,Food
+724,76.76,25,353278520.0,230.77,Laki-Laki,5/26/2016 13:28,No,Tangerang,Banten,Finance
+725,78.74,27,359866150.0,234.75,Perempuan,6/18/2016 19:10,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Health
+726,67.47,24,423598350.0,225.05,Laki-Laki,3/20/2016 7:12,No,Denpasar,Bali,Finance
+727,81.17,30,400371720.0,231.91,Laki-Laki,6/3/2016 7:00,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Furniture
+728,89.66,34,369618060.0,171.23,Laki-Laki,2/3/2016 15:15,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Food
+729,79.6,28,395990420.0,227.37,Laki-Laki,5/3/2016 16:55,No,Semarang,Jawa Tengah,Furniture
+730,65.53,19,357346290.0,190.17,Laki-Laki,6/20/2016 2:25,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Electronic
+731,61.87,35,466407270.0,250.2,Laki-Laki,7/10/2016 19:15,No,Makassar,Sulawesi Selatan,Otomotif
+732,83.16,41,491295420.0,194.95,Perempuan,1/4/2016 4:00,No,Padang,Sumatra Barat,House
+733,44.11,41,301779870.0,121.24,Laki-Laki,4/20/2016 16:49,Yes,Medan,Sumatra Utara,Finance
+734,56.57,26,395049200.0,131.98,Perempuan,1/23/2016 13:14,Yes,Bekasi,Jawa Barat,Electronic
+735,83.91,29,372565060.0,222.87,Perempuan,1/4/2016 22:27,No,Depok,Jawa Barat,Electronic
+736,79.8,28,400259370.0,229.88,Laki-Laki,4/8/2016 22:40,No,Bekasi,Jawa Barat,Otomotif
+737,71.23,52,290648960.0,122.59,Perempuan,1/5/2016 11:53,Yes,Bogor,Jawa Barat,House
+738,47.23,43,514766630.0,210.87,Laki-Laki,3/17/2016 22:24,Yes,Denpasar,Bali,Electronic
+739,82.37,30,445650240.0,,Perempuan,6/29/2016 4:23,No,Palembang,Sumatra Selatan,House
+740,43.63,38,432299840.0,135.25,Laki-Laki,5/25/2016 19:45,Yes,Bekasi,Jawa Barat,Bank
+741,70.9,28,502092570.0,190.95,Perempuan,6/17/2016 23:19,No,Bandung,Jawa Barat,Health
+742,71.9,29,505427720.00000006,193.29,Laki-Laki,4/24/2016 7:20,No,Tangerang,Banten,Furniture
+743,,37,354701200.0,105.86,Laki-Laki,3/18/2016 13:00,Yes,Denpasar,Bali,Fashion
+744,67.35,29,332572940.0,118.69,Perempuan,4/28/2016 21:58,Yes,Palembang,Sumatra Selatan,Travel
+745,57.99,50,437262700.0,124.58,Perempuan,2/12/2016 8:46,Yes,Bogor,Jawa Barat,Food
+746,66.8,29,417782120.0,248.51,Perempuan,7/11/2016 13:23,Yes,Palembang,Sumatra Selatan,House
+747,49.13,32,287680190.0,120.49,Perempuan,1/29/2016 0:45,Yes,Bekasi,Jawa Barat,Finance
+748,45.11,58,278598110.0,195.69,Perempuan,1/5/2016 16:26,Yes,Cimahi,Jawa Barat,House
+749,54.35,42,538889470.0,164.02,Perempuan,6/20/2016 8:22,No,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Travel
+750,61.82,59,405140050.0,151.93,Laki-Laki,2/6/2016 17:48,Yes,Bekasi,Jawa Barat,Otomotif
+751,77.75,31,413335370.0,240.64,Laki-Laki,6/22/2016 17:19,No,Semarang,Jawa Tengah,House
+752,70.61,28,505082760.0,190.12,Perempuan,4/16/2016 5:24,No,Pontianak,Kalimantan Barat,Food
+753,82.72,31,459933530.0,179.82,Perempuan,1/17/2016 5:07,No,Surakarta,Jawa Tengah,Health
+754,76.87,36,510641320.0,212.59,Perempuan,7/8/2016 22:30,No,Surabaya,Jawa Timur,Electronic
+755,65.07,34,517593370.0,227.53,Laki-Laki,3/11/2016 0:05,No,Batam,Kepulauan Riau,Health
+756,56.93,37,405213480.0,111.8,Perempuan,6/10/2016 0:35,Yes,Pontianak,Kalimantan Barat,Health
+757,48.86,35,437245900.0,128.37,Laki-Laki,1/4/2016 0:44,Yes,Bekasi,Jawa Barat,Food
+758,36.56,29,299868030.0,195.89,Perempuan,1/1/2016 15:14,Yes,Malang,Jawa Timur,Finance
+759,85.73,32,306452160.0,147.75,Laki-Laki,7/10/2016 17:24,Yes,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Food
+760,75.81,40,498099350.0,229.19,Perempuan,3/27/2016 19:50,No,Surabaya,Jawa Timur,Bank
+761,72.94,31,519117830.0,190.84,Perempuan,4/29/2016 13:38,No,Pakanbaru,Riau,Travel
+762,53.63,54,352336040.0,126.29,Laki-Laki,1/8/2016 18:13,Yes,Pakanbaru,Riau,Otomotif
+763,52.35,25,233056460.0,147.61,Laki-Laki,6/5/2016 7:54,Yes,Medan,Sumatra Utara,Finance
+764,52.84,51,270488400.0,121.57,Laki-Laki,6/29/2016 10:50,Yes,Batam,Kepulauan Riau,Travel
+765,51.58,33,348759460.0,115.91,Perempuan,4/24/2016 13:46,Yes,Palembang,Sumatra Selatan,Furniture
+766,42.32,29,447239030.0,187.09,Laki-Laki,2/14/2016 4:14,Yes,Bandar Lampung,Lampung,Health
+767,55.04,42,307172110.0,106.96,Laki-Laki,6/15/2016 5:43,Yes,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,House
+768,68.58,41,97975500.0,171.54,Laki-Laki,7/6/2016 12:04,Yes,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Travel
+769,85.54,27,341327980.0,175.43,Laki-Laki,3/31/2016 13:54,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Furniture
+770,71.14,30,488308170.0,224.82,Perempuan,6/21/2016 0:52,No,Depok,Jawa Barat,House
+771,64.38,19,367710700.0,180.47,Laki-Laki,5/27/2016 5:23,No,Surabaya,Jawa Timur,Travel
+772,88.85,40,408541840.0,213.96,Perempuan,1/17/2016 18:45,No,Surabaya,Jawa Timur,Fashion
+773,66.79,60,424031930.0,198.3,Laki-Laki,4/7/2016 20:34,Yes,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Electronic
+774,32.6,45,337442280.0,185.47,Perempuan,5/2/2016 18:37,Yes,Medan,Sumatra Utara,Bank
+775,43.88,54,220661630.0,166.85,Laki-Laki,6/4/2016 17:24,Yes,Depok,Jawa Barat,Health
+776,56.46,26,463313060.0,151.63,Perempuan,4/7/2016 18:52,Yes,Padang,Sumatra Barat,Bank
+777,72.18,30,486066280.0,225.02,Perempuan,6/10/2016 22:21,No,Denpasar,Bali,Travel
+778,52.67,44,103428500.0,191.26,Perempuan,5/19/2016 6:37,Yes,Bandung,Jawa Barat,Fashion
+779,80.55,35,476118300.0,219.91,Perempuan,3/28/2016 23:01,No,Surakarta,Jawa Tengah,Travel
+780,67.85,41,549646930.0,202.7,Laki-Laki,1/21/2016 22:51,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Bank
+781,75.55,36,223991040.0,123.71,Laki-Laki,3/12/2016 6:05,Yes,Bogor,Jawa Barat,Otomotif
+782,80.46,29,398365100.0,230.78,Perempuan,6/4/2016 9:13,No,Medan,Sumatra Utara,Otomotif
+783,82.69,29,428129030.0,167.41,Laki-Laki,5/24/2016 10:16,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Furniture
+784,35.21,39,366380700.0,154.0,Laki-Laki,3/25/2016 6:36,Yes,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Electronic
+785,36.37,40,331372580.0,144.53,Laki-Laki,4/22/2016 0:28,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Travel
+786,74.07,22,356651680.0,165.43,Laki-Laki,3/22/2016 4:13,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Travel
+787,59.96,33,540005270.0,197.66,Perempuan,1/14/2016 8:27,Yes,Surabaya,Jawa Timur,Travel
+788,85.62,29,399226520.0,195.68,Perempuan,4/14/2016 21:37,No,Malang,Jawa Timur,Furniture
+789,40.88,33,339881150.0,136.18,Laki-Laki,5/31/2016 17:50,Yes,Bandung,Jawa Barat,Fashion
+790,36.98,31,276867430.0,167.87,Laki-Laki,3/17/2016 6:25,Yes,Palembang,Sumatra Selatan,Finance
+791,35.49,47,258189610.00000003,170.04,Perempuan,4/13/2016 7:07,Yes,Bandung,Jawa Barat,Otomotif
+792,56.56,26,481484150.0,204.47,Laki-Laki,2/3/2016 22:11,No,Depok,Jawa Barat,Finance
+793,36.62,32,357839510.0,162.44,Laki-Laki,2/2/2016 19:59,Yes,Cimahi,Jawa Barat,Furniture
+794,49.35,49,310128910.0,119.86,Perempuan,4/7/2016 20:38,Yes,Medan,Sumatra Utara,Otomotif
+795,75.64,29,488027330.0,204.82,Laki-Laki,3/15/2016 19:35,No,Medan,Sumatra Utara,Food
+796,79.22,27,444004260.0,198.79,Laki-Laki,3/11/2016 12:39,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Fashion
+797,77.05,34,460294520.0,236.08,Perempuan,5/17/2016 18:06,No,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Bank
+798,66.83,46,545102250.0,196.17,Laki-Laki,2/28/2016 23:10,No,Bogor,Jawa Barat,Health
+799,76.2,24,330810130.0,228.81,Laki-Laki,3/2/2016 6:35,No,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Furniture
+800,56.64,29,391894230.0,123.24,Laki-Laki,2/27/2016 8:52,Yes,Surakarta,Jawa Tengah,Bank
+801,53.33,34,309925910.0,111.63,Laki-Laki,3/14/2016 4:34,Yes,Bandung,Jawa Barat,Health
+802,50.63,50,180370120.0,142.23,Perempuan,3/10/2016 15:07,Yes,Bandar Lampung,Lampung,Food
+803,41.84,49,263235770.0,139.32,Perempuan,5/1/2016 8:27,Yes,Tangerang Selatan,Banten,House
+804,53.92,41,180173630.0,125.46,Laki-Laki,6/12/2016 11:17,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Bank
+805,83.89,28,421318660.0,180.88,Laki-Laki,5/28/2016 12:20,No,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Travel
+806,55.32,43,473776240.00000006,127.65,Perempuan,3/18/2016 9:08,Yes,Palembang,Sumatra Selatan,Otomotif
+807,53.22,44,310150260.0,108.85,Perempuan,5/26/2016 6:03,Yes,Pakanbaru,Riau,Health
+808,43.16,35,177600640.0,156.11,Laki-Laki,7/6/2016 3:40,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Food
+809,67.51,43,167598270.0,127.2,Perempuan,4/29/2016 14:10,Yes,Bekasi,Jawa Barat,House
+810,43.16,29,354665500.0,143.04,Laki-Laki,3/5/2016 20:53,Yes,Bekasi,Jawa Barat,Furniture
+811,79.89,30,352492420.0,241.38,Laki-Laki,5/30/2016 8:35,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Travel
+812,84.25,32,447555500.0,170.9,Laki-Laki,4/10/2016 6:32,No,Semarang,Jawa Tengah,Travel
+813,74.18,28,489119260.0,203.87,Perempuan,1/20/2016 2:31,No,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,House
+814,85.78,34,350270550.0,232.78,Perempuan,7/20/2016 21:53,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,House
+815,80.96,39,475068650.0,225.0,Laki-Laki,1/17/2016 4:12,No,Cimahi,Jawa Barat,Electronic
+816,36.91,48,382516400.0,159.69,Perempuan,2/24/2016 7:13,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Bank
+817,54.47,23,327460630.0,141.52,,3/26/2016 19:37,Yes,Medan,Sumatra Utara,Otomotif
+818,81.98,34,472027430.00000006,212.88,Perempuan,6/4/2016 9:25,No,Denpasar,Bali,Otomotif
+819,79.6,39,513745960.0,194.23,Perempuan,4/22/2016 7:48,No,Balikpapan,Kalimantan Timur,Travel
+820,57.51,38,333775960.0,105.71,Perempuan,3/31/2016 8:53,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Bank
+821,82.3,31,397150810.0,232.21,Perempuan,4/16/2016 8:36,No,Bandar Lampung,Lampung,Finance
+822,73.21,30,357093590.0,252.6,Laki-Laki,5/12/2016 20:57,Yes,Semarang,Jawa Tengah,Travel
+823,79.09,32,486372950.00000006,209.72,Laki-Laki,5/7/2016 21:32,No,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,House
+824,68.47,28,469233380.0,226.64,Perempuan,6/25/2016 0:33,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Electronic
+825,83.69,36,481019000.0,192.57,Perempuan,3/23/2016 5:27,No,Bandung,Jawa Barat,Otomotif
+826,83.48,31,415386930.0,222.72,Laki-Laki,3/4/2016 13:47,No,Samarinda,Kalimantan Timur,House
+827,43.49,45,335778240.0,124.67,Perempuan,6/14/2016 12:08,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Finance
+828,66.69,35,341312440.0,108.27,Perempuan,5/11/2016 19:13,Yes,Serang,Banten,Bank
+829,48.46,49,428610210.0,132.38,Laki-Laki,1/21/2016 23:33,Yes,Palembang,Sumatra Selatan,Electronic
+830,42.51,30,383289970.0,144.77,Laki-Laki,1/15/2016 19:45,Yes,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Food
+831,42.83,34,380273110.0,132.38,Laki-Laki,4/23/2016 9:42,Yes,Pontianak,Kalimantan Barat,Bank
+832,41.46,42,365241800.0,128.98,Laki-Laki,5/23/2016 8:06,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Electronic
+833,45.99,33,358141980.0,124.61,Laki-Laki,2/27/2016 15:04,Yes,Depok,Jawa Barat,Health
+834,68.72,27,468031690.0,225.97,Perempuan,2/23/2016 17:37,No,Bekasi,Jawa Barat,Finance
+835,63.11,34,441755160.0,254.94,Laki-Laki,3/17/2016 22:59,No,Surakarta,Jawa Tengah,Food
+836,49.21,46,344444800.0,115.6,Perempuan,2/28/2016 3:34,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Otomotif
+837,55.77,49,391594280.0,117.33,Laki-Laki,3/15/2016 14:33,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Furniture
+838,44.13,40,235212880.0,128.48,Laki-Laki,3/3/2016 20:20,Yes,Surabaya,Jawa Timur,Travel
+839,57.82,46,342071520.0,107.56,Laki-Laki,4/6/2016 14:16,Yes,Bandar Lampung,Lampung,Fashion
+840,72.46,40,396783240.0,113.53,Perempuan,5/1/2016 9:23,Yes,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Electronic
+841,61.88,45,267826230.0,108.18,Perempuan,5/30/2016 8:02,Yes,Bekasi,Jawa Barat,House
+842,78.24,23,378743470.0,199.29,Perempuan,4/4/2016 11:39,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,House
+843,74.61,38,497386540.0,231.28,Laki-Laki,4/6/2016 23:10,No,Palembang,Sumatra Selatan,Bank
+844,89.18,37,324822260.0,224.01,Laki-Laki,4/26/2016 21:45,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Travel
+845,44.16,42,431836510.0,133.42,Laki-Laki,5/25/2016 0:34,Yes,Makassar,Sulawesi Selatan,House
+846,55.74,37,182916510.0,124.34,Laki-Laki,2/11/2016 16:45,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Otomotif
+847,88.82,36,410471250.0,169.1,Perempuan,1/30/2016 0:05,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Fashion
+848,70.39,32,331501730.0,261.52,Laki-Laki,7/12/2016 10:56,No,Bandar Lampung,Lampung,Fashion
+849,59.05,52,350603190.0,118.45,Laki-Laki,4/23/2016 3:46,Yes,Bandung,Jawa Barat,Health
+850,78.58,33,362408060.0,250.11,Laki-Laki,4/16/2016 10:36,No,Makassar,Sulawesi Selatan,Electronic
+851,35.11,35,333468100.0,158.03,Laki-Laki,3/11/2016 13:07,Yes,Bekasi,Jawa Barat,Otomotif
+852,60.39,45,272911940.0,108.25,Laki-Laki,3/2/2016 15:39,Yes,Samarinda,Kalimantan Timur,Finance
+853,81.56,26,359542120.0,213.7,Laki-Laki,7/13/2016 21:31,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Finance
+854,75.03,34,250351430.0,255.57,Perempuan,5/29/2016 18:12,Yes,Medan,Sumatra Utara,Otomotif
+855,50.87,24,440576500.0,190.41,Perempuan,5/10/2016 17:13,Yes,Surabaya,Jawa Timur,Food
+856,82.8,30,411436690.0,223.2,Laki-Laki,5/7/2016 8:39,No,Bekasi,Jawa Barat,Bank
+857,78.51,25,413742840.0,205.71,Laki-Laki,1/17/2016 13:27,No,Palembang,Sumatra Selatan,Furniture
+858,37.65,51,353199070.0,161.29,Laki-Laki,3/9/2016 6:22,Yes,Tasikmalaya,Jawa Barat,Electronic
+859,83.17,43,379762460.0,244.4,Laki-Laki,4/5/2016 18:02,No,Malang,Jawa Timur,Otomotif
+860,91.37,45,363443430.0,182.65,Laki-Laki,4/1/2016 7:37,Yes,Surabaya,Jawa Timur,House
+861,68.25,29,492273600.0,220.08,Perempuan,2/15/2016 16:18,No,Batam,Kepulauan Riau,Bank
+862,81.32,25,366913260.0,165.65,Perempuan,3/8/2016 5:12,No,Tangerang,Banten,Finance
+863,76.64,39,,241.5,Laki-Laki,2/9/2016 23:38,No,Palembang,Sumatra Selatan,Finance
+864,74.06,50,426571110.0,246.29,Laki-Laki,6/17/2016 9:38,No,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Food
+865,39.53,33,281706740.0,142.21,Laki-Laki,6/1/2016 12:27,Yes,Denpasar,Bali,Otomotif
+866,86.58,32,421062390.0,195.93,Laki-Laki,2/26/2016 23:44,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Electronic
+867,90.75,40,321621160.0,216.5,Perempuan,3/11/2016 9:58,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Finance
+868,67.71,25,444012310.0,225.76,Laki-Laki,4/28/2016 2:55,No,Banjarmasin,Kalimantan Selatan,Furniture
+869,82.41,36,461179670.0,222.08,Perempuan,4/12/2016 4:22,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Fashion
+870,45.82,27,450875600.0,171.24,Laki-Laki,2/10/2016 20:43,Yes,Pakanbaru,Riau,Fashion
+871,76.79,27,389739840.0,235.94,Perempuan,5/1/2016 23:21,No,Bekasi,Jawa Barat,Food
+872,70.05,33,528924550.0,203.44,Perempuan,3/24/2016 17:48,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,House
+873,72.19,32,427473060.0,250.32,Laki-Laki,4/22/2016 19:45,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Electronic
+874,77.35,34,506313990.00000006,167.26,Perempuan,3/9/2016 12:10,No,Medan,Sumatra Utara,Health
+875,40.34,29,227849650.0,173.75,Perempuan,3/30/2016 5:29,Yes,Medan,Sumatra Utara,Food
+876,67.39,44,358800820.0,107.19,Perempuan,1/24/2016 13:41,Yes,Tangerang,Banten,Fashion
+877,68.68,34,540542940.0,187.03,Laki-Laki,7/15/2016 9:42,No,Bandung,Jawa Barat,Food
+878,81.75,43,367645250.0,249.45,Perempuan,6/7/2016 5:41,No,Pakanbaru,Riau,Electronic
+879,66.03,22,415957290.0,217.37,Perempuan,5/31/2016 23:32,No,Surabaya,Jawa Timur,Bank
+880,,33,157192280.0,154.93,Laki-Laki,5/14/2016 14:49,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Bank
+881,79.18,31,409107930.0,236.96,Perempuan,1/10/2016 20:18,No,Pakanbaru,Riau,Furniture
+882,86.81,29,355745180.0,199.62,Laki-Laki,2/21/2016 16:57,No,Pontianak,Kalimantan Barat,Health
+883,41.53,42,473025840.0,158.81,Perempuan,5/23/2016 0:32,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Electronic
+884,70.92,39,465659530.0,249.81,Laki-Laki,7/21/2016 20:30,No,Semarang,Jawa Tengah,Otomotif
+885,46.84,45,244325690.0,123.22,Perempuan,5/15/2016 18:44,Yes,Semarang,Jawa Tengah,Electronic
+886,44.4,53,301516460.0,140.95,Laki-Laki,6/30/2016 0:43,Yes,Depok,Jawa Barat,Fashion
+887,52.17,44,403162900.0,115.37,Laki-Laki,2/24/2016 6:17,Yes,Tasikmalaya,Jawa Barat,Travel
+888,81.45,31,462191170.0,205.84,Laki-Laki,5/30/2016 21:22,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Electronic
+889,54.08,36,371090580.0,111.02,Laki-Laki,6/2/2016 4:14,Yes,Bekasi,Jawa Barat,Travel
+890,76.65,31,427822500.0,238.43,Perempuan,4/18/2016 7:00,No,Batam,Kepulauan Riau,Travel
+891,54.39,20,367942540.0,171.9,Laki-Laki,2/29/2016 18:06,Yes,Tangerang Selatan,Banten,Finance
+892,37.74,40,460414430.00000006,190.95,Perempuan,5/27/2016 12:45,Yes,Surabaya,Jawa Timur,Health
+893,69.86,25,353545080.0,241.36,Perempuan,1/12/2016 21:17,No,Semarang,Jawa Tengah,Health
+894,85.37,36,463838130.0,194.56,Laki-Laki,1/27/2016 17:08,No,Surabaya,Jawa Timur,Travel
+895,80.99,26,248653160.0,207.53,Laki-Laki,6/10/2016 3:56,No,Bekasi,Jawa Barat,Finance
+896,78.84,32,437013850.0,235.29,Laki-Laki,4/9/2016 9:26,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Fashion
+897,77.36,41,347179560.0,115.79,Perempuan,2/26/2016 6:00,Yes,Surabaya,Jawa Timur,Travel
+898,55.46,37,294552230.0,108.1,Perempuan,2/21/2016 23:07,Yes,Balikpapan,Kalimantan Timur,Travel
+899,35.66,45,323383130.0,151.72,Perempuan,4/29/2016 14:08,Yes,Surabaya,Jawa Timur,Health
+900,50.78,51,349699000.0,122.04,Perempuan,2/11/2016 17:02,Yes,Bandung,Jawa Barat,House
+901,40.47,38,168552510.0,203.9,Perempuan,7/22/2016 7:44,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Otomotif
+902,45.62,43,375534670.0,121.28,Perempuan,6/26/2016 2:34,Yes,Tasikmalaya,Jawa Barat,Finance
+903,84.76,30,427273910.0,178.69,Perempuan,5/14/2016 23:08,No,Makassar,Sulawesi Selatan,Bank
+904,80.64,26,328819050.0,221.59,Perempuan,5/24/2016 10:04,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Health
+905,75.94,27,371297570.0,236.96,Laki-Laki,2/16/2016 12:05,No,Bandung,Jawa Barat,Fashion
+906,37.01,50,341782980.0,216.01,Perempuan,3/20/2016 2:44,Yes,Medan,Sumatra Utara,Fashion
+907,87.18,31,408015020.0,193.6,Perempuan,1/31/2016 5:12,No,Medan,Sumatra Utara,Otomotif
+908,56.91,50,152412540.0,146.44,Perempuan,4/1/2016 5:17,Yes,Surakarta,Jawa Tengah,Electronic
+909,75.24,24,365770370.0,226.49,Perempuan,2/25/2016 16:33,No,Tangerang,Banten,Electronic
+910,42.84,52,189512890.0,182.2,Laki-Laki,3/21/2016 11:02,Yes,Surabaya,Jawa Timur,House
+911,67.56,47,354398170.0,109.98,Perempuan,2/12/2016 5:20,Yes,Makassar,Sulawesi Selatan,Finance
+912,34.96,42,258394570.0,160.49,Laki-Laki,6/1/2016 16:10,Yes,Surabaya,Jawa Timur,Otomotif
+913,87.46,37,427063700.0,211.56,Laki-Laki,6/16/2016 3:17,No,Bandung,Jawa Barat,Furniture
+914,41.86,39,371292390.0,128.62,Laki-Laki,3/26/2016 15:28,Yes,Cimahi,Jawa Barat,Finance
+915,34.04,34,281279880.0,174.88,Laki-Laki,2/16/2016 7:37,Yes,Bandung,Jawa Barat,Health
+916,54.96,42,415938460.0,113.75,Laki-Laki,2/28/2016 9:31,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Electronic
+917,87.14,31,407646470.0,199.4,Laki-Laki,5/18/2016 1:00,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Travel
+918,78.79,32,478271360.0,215.29,Laki-Laki,2/21/2016 13:11,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Furniture
+919,65.56,25,487524450.00000006,181.25,Laki-Laki,1/5/2016 12:59,No,Tangerang Selatan,Banten,Health
+920,81.05,34,378317730.0,245.5,Perempuan,5/18/2016 0:07,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,House
+921,55.71,37,,112.52,Laki-Laki,3/6/2016 23:26,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Travel
+922,45.48,49,373357320.0,129.16,Laki-Laki,5/19/2016 4:23,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Fashion
+923,47.0,56,353440150.0,149.53,Perempuan,4/29/2016 20:40,Yes,Tangerang,Banten,Furniture
+924,59.64,51,500189340.0,153.12,Laki-Laki,5/3/2016 1:09,Yes,Cimahi,Jawa Barat,Fashion
+925,35.98,45,302693160.0,150.79,Perempuan,6/27/2016 21:51,Yes,Bogor,Jawa Barat,Food
+926,72.55,22,412671070.0,,Perempuan,2/8/2016 7:33,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Otomotif
+927,,38,257838280.0,184.98,Perempuan,2/22/2016 7:04,No,Pakanbaru,Riau,Furniture
+928,80.53,29,464415700.00000006,187.64,Perempuan,3/21/2016 8:13,No,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Otomotif
+929,82.49,45,270517800.0,130.84,Perempuan,5/31/2016 0:58,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,House
+930,80.94,36,425621000.0,239.94,Perempuan,1/1/2016 5:31,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Bank
+931,61.76,34,234877300.0,114.69,Perempuan,5/27/2016 8:53,Yes,Bekasi,Jawa Barat,Electronic
+932,63.3,38,441499380.0,116.19,Perempuan,5/9/2016 7:13,Yes,Surabaya,Jawa Timur,Furniture
+933,36.73,34,327161380.0,149.79,Laki-Laki,6/27/2016 1:56,Yes,Tangerang Selatan,Banten,Food
+934,78.41,33,387580690.0,248.23,Laki-Laki,6/3/2016 4:51,No,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Travel
+935,83.98,36,478141370.0,194.62,Perempuan,2/24/2016 0:44,No,Malang,Jawa Timur,Otomotif
+936,63.18,45,274480430.0,107.92,Perempuan,3/5/2016 12:03,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Electronic
+937,50.6,48,461696970.00000006,135.67,Perempuan,1/15/2016 22:49,Yes,Bandung,Jawa Barat,Travel
+938,32.6,38,281114400.0,190.05,Perempuan,2/12/2016 3:39,Yes,Semarang,Jawa Tengah,Electronic
+939,60.83,19,283351810.0,185.46,Laki-Laki,2/19/2016 20:49,No,Bekasi,Jawa Barat,Health
+940,44.72,46,283279710.0,123.86,Laki-Laki,3/12/2016 2:48,Yes,Batam,Kepulauan Riau,Furniture
+941,78.76,51,468861890.0,162.05,Perempuan,7/23/2016 4:04,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Food
+942,79.51,39,244595820.0,125.11,Laki-Laki,3/6/2016 9:33,Yes,Depok,Jawa Barat,Food
+943,39.3,32,338346400.0,145.73,Perempuan,2/24/2016 4:11,Yes,Bandung,Jawa Barat,House
+944,64.79,30,295761130.0,116.07,Perempuan,2/17/2016 20:22,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Food
+945,89.8,36,401313010.0,198.24,Perempuan,2/2/2016 4:57,No,Bandung,Jawa Barat,Fashion
+946,72.82,34,530388740.00000006,191.82,Laki-Laki,1/27/2016 16:06,No,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Food
+947,38.65,31,362688970.0,154.77,Laki-Laki,5/24/2016 9:50,Yes,Jakarta Timur,Daerah Khusus Ibukota Jakarta,Bank
+948,59.01,30,526861720.00000006,178.75,Laki-Laki,2/8/2016 22:45,Yes,Tangerang Selatan,Banten,House
+949,78.96,50,489079360.0,193.15,Perempuan,2/12/2016 1:55,Yes,Bandar Lampung,Lampung,Otomotif
+950,63.99,43,509616940.0,138.46,Perempuan,1/11/2016 8:18,Yes,Bandung,Jawa Barat,Bank
+951,41.35,27,274354150.0,162.46,Laki-Laki,3/3/2016 3:51,Yes,Medan,Sumatra Utara,Bank
+952,62.79,36,128579990.0,231.87,Laki-Laki,5/30/2016 20:08,Yes,Batam,Kepulauan Riau,Health
+953,45.53,29,392909230.0,141.58,Perempuan,4/22/2016 22:01,Yes,Depok,Jawa Barat,Health
+954,51.65,31,412975920.0,249.99,Perempuan,5/25/2016 10:39,No,Palembang,Sumatra Selatan,Otomotif
+955,54.55,44,290833340.0,109.04,Perempuan,2/4/2016 3:10,Yes,Banjarmasin,Kalimantan Selatan,Finance
+956,35.66,36,414681680.0,172.57,Perempuan,2/21/2016 20:09,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Food
+957,69.95,28,397078290.0,247.01,Perempuan,4/28/2016 1:24,No,Makassar,Sulawesi Selatan,Finance
+958,79.83,29,390351010.0,234.23,Laki-Laki,5/18/2016 19:33,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Otomotif
+959,85.35,37,449648570.0,161.42,Laki-Laki,2/17/2016 11:15,No,Tasikmalaya,Jawa Barat,Bank
+960,56.78,28,279575730.0,124.32,Perempuan,6/19/2016 23:04,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Health
+961,78.67,26,443239930.0,195.56,Perempuan,2/20/2016 9:54,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Fashion
+962,70.09,21,383081090.0,211.17,Perempuan,1/22/2016 12:58,No,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Otomotif
+963,60.75,42,488430250.0,247.05,Laki-Laki,2/19/2016 13:26,No,Medan,Sumatra Utara,Electronic
+964,65.07,24,402818920.0,233.85,Perempuan,1/3/2016 7:13,No,Bandung,Jawa Barat,Bank
+965,35.25,50,329357140.0,194.44,Perempuan,1/3/2016 4:39,Yes,Tasikmalaya,Jawa Barat,Health
+966,37.58,52,361203290.0,176.7,Laki-Laki,4/13/2016 13:04,Yes,Surabaya,Jawa Timur,Travel
+967,68.01,25,478505720.00000006,188.32,Laki-Laki,1/1/2016 3:35,No,Cimahi,Jawa Barat,Health
+968,45.08,38,247444820.0,125.27,Perempuan,3/27/2016 8:32,Yes,Bekasi,Jawa Barat,Fashion
+969,63.04,27,488493950.00000006,159.05,Perempuan,7/10/2016 16:25,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,House
+970,40.18,29,355321610.0,151.96,Perempuan,6/25/2016 4:21,Yes,Surabaya,Jawa Timur,Food
+971,45.17,48,240926630.0,132.07,Laki-Laki,1/27/2016 14:41,Yes,Jakarta Barat,Daerah Khusus Ibukota Jakarta,Travel
+972,50.48,50,144150930.0,162.43,Perempuan,5/16/2016 18:51,Yes,Surabaya,Jawa Timur,Food
+973,80.87,28,444701600.0,203.3,Perempuan,2/27/2016 20:20,No,Bandar Lampung,Lampung,Otomotif
+974,41.88,40,309523760.0,126.11,Laki-Laki,2/28/2016 23:54,Yes,Denpasar,Bali,Food
+975,39.87,48,335508810.0,139.34,Laki-Laki,6/13/2016 6:11,Yes,Semarang,Jawa Tengah,Furniture
+976,61.84,45,322170030.0,105.63,Laki-Laki,5/5/2016 11:07,Yes,Bandar Lampung,Lampung,Otomotif
+977,54.97,31,,116.38,Laki-Laki,7/7/2016 12:17,Yes,Surabaya,Jawa Timur,Travel
+978,71.4,30,505322300.0,166.31,Perempuan,5/24/2016 17:07,No,Jakarta Utara,Daerah Khusus Ibukota Jakarta,Health
+979,70.29,31,398821570.0,254.65,Laki-Laki,3/30/2016 14:36,No,Jakarta Pusat,Daerah Khusus Ibukota Jakarta,Food
+980,67.26,57,179778550.0,168.41,Laki-Laki,5/27/2016 5:54,Yes,Medan,Sumatra Utara,Finance
+981,76.58,46,293192480.0,258.26,Perempuan,1/3/2016 16:30,No,Bekasi,Jawa Barat,Food
+982,54.37,38,505374030.0,140.77,Perempuan,6/25/2016 18:17,Yes,Tangerang,Banten,Otomotif
+983,82.79,32,381004190.0,234.81,Laki-Laki,2/24/2016 10:36,No,Pontianak,Kalimantan Barat,Health
+984,66.47,31,406263620.0,256.39,Laki-Laki,3/3/2016 3:13,No,Pontianak,Kalimantan Barat,Fashion
+985,72.88,44,448078820.0,125.12,Perempuan,4/21/2016 19:56,Yes,Palembang,Sumatra Selatan,Fashion
+986,76.44,28,419770330.0,232.68,Laki-Laki,4/6/2016 17:26,No,Semarang,Jawa Tengah,Otomotif
+987,63.37,43,302086330.0,105.04,Laki-Laki,3/23/2016 12:53,Yes,Tangerang,Banten,Fashion
+988,89.71,48,360509660.0,204.4,Laki-Laki,2/17/2016 7:00,No,Makassar,Sulawesi Selatan,Food
+989,70.96,31,386314950.0,256.4,Perempuan,6/26/2016 7:01,No,Semarang,Jawa Tengah,Furniture
+990,35.79,44,236691560.0,165.62,Laki-Laki,4/20/2016 13:36,Yes,Padang,Sumatra Barat,Food
+991,38.96,38,255480540.0,,Laki-Laki,7/21/2016 16:02,Yes,Jakarta Selatan,Daerah Khusus Ibukota Jakarta,Travel
+992,69.17,40,463356670.0,123.62,Perempuan,3/6/2016 11:36,Yes,Bandar Lampung,Lampung,House
+993,64.2,27,463406720.00000006,227.63,Laki-Laki,2/11/2016 23:45,No,Makassar,Sulawesi Selatan,Bank
+994,43.7,28,441888720.0,173.01,Perempuan,4/4/2016 3:57,Yes,Tasikmalaya,Jawa Barat,Fashion
+995,72.97,30,499691990.00000006,208.58,Laki-Laki,2/11/2016 21:49,Yes,Semarang,Jawa Tengah,Finance
+996,51.3,45,474475190.0,134.42,Laki-Laki,4/22/2016 2:07,Yes,Pakanbaru,Riau,Electronic
+997,,51,296910040.0,120.37,Laki-Laki,2/1/2016 17:24,Yes,Samarinda,Kalimantan Timur,Travel
+998,55.55,19,293445530.0,187.95,Perempuan,3/24/2016 2:35,No,Tangerang,Banten,Bank
+999,45.01,26,209130600.0,178.35,Perempuan,6/3/2016 21:43,Yes,Serang,Banten,Travel
